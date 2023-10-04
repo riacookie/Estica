@@ -21,7 +21,7 @@
 | • Modern Estican Kingdom    | 20th century - present                                                                                                       |
 | **Land Area**               | 714,330 km²  <br>(275,804 sq mi)                                                                                             |
 | **Population**              |                                                                                                                              |
-| • 2023 census               | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Increase_Neutral.svg/11px-Increase_Neutral.svg.png) 12 million |
+| • 2023 census               | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Increase_Neutral.svg/11px-Increase_Neutral.svg.png) 13 million |
 | • Density                   | 366.3/km²  <br>(141.43/sq mi)                                                                                                |
 | **GDP (nominal)**           |                                                                                                                              |
 | • Total                     | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png) P̳40.3 trillion          |
