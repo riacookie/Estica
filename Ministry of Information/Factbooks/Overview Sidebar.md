@@ -19,16 +19,16 @@
 | • Tudor Empire              | 1300-1600                                                                                                                    |
 | • Early Estican Kingdom     | 1700-1800                                                                                                                    |
 | • Modern Estican Kingdom    | 20th century - present                                                                                                       |
-| **Land Area**               | 714,330 km²  <br>(275,804 sq mi)                                                                                             |
+| **Land Area**               | 1,151,707.99 km²  <br>(444677 sq mi)                                                                                             |
 | **Population**              |                                                                                                                              |
-| • 2023 census               | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Increase_Neutral.svg/11px-Increase_Neutral.svg.png) 13 million |
+| • 2023 census               | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Increase_Neutral.svg/11px-Increase_Neutral.svg.png) 26 million |
 | • Density                   | 366.3/km²  <br>(141.43/sq mi)                                                                                                |
 | **GDP (nominal)**           |                                                                                                                              |
 | • Total                     | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png) P̳40.3 trillion          |
 | • Per capita                | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png) P̳48,523                 |
 | **Human Development Index** | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png) 0.530  <br>low           |
 | **Currency**                | Estican pound (P̳) (ESP)                                                                                                     |
-| **Time zone**               | UTC                                                                                                                          |
+| **Time zone**               | UTC+1                                                                                                                          |
 | **Date format**             | dd/mm/yyyy  <br>yyyy-mm-dd                                                                                                   |
 | **Drives on the**           | right                                                                                                                        |
 | **Calling code**            | +74                                                                                                                          |
