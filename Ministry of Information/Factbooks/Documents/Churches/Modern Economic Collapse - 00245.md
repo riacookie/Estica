@@ -27,7 +27,7 @@ The roster of activated Sealed Artifacts employed to secure the perimeter includ
 - Sealed Artifact 2-34
 - Sealed Artifact 1-07
 
-Upon arrival at the incident location, the combined task force swiftly initiated their respective protocols. The Nighthawks Team cordoned off a one-kilometer radius, effectively isolating the affected area from the general populace. The Machinery Hivemind Team commenced countermeasures against the malevolent entity, while the Paranormal Incident Unit Team initiated their investigation into the source and effects of the corruption.
+At 13:35 in the afternoon, the combined task force arrived and swiftly initiated their respective protocols. The Nighthawks Team cordoned off a one-kilometer radius, effectively isolating the affected area from the general populace. The Machinery Hivemind Team commenced countermeasures against the malevolent entity, while the Paranormal Incident Unit Team initiated their investigation into the source and effects of the corruption.
 
 The original Machinery Hivemind squad that attacked the cultists was engaged in combat inside the containment zone. They suffered heavy casualties; half of their members had been wiped out when the ritual succeeded. The captain of the squad encountered the malevolent entity directly and, upon realizing they couldn't defeat it, their tactics shifted to retreating to the nearest church.
 
