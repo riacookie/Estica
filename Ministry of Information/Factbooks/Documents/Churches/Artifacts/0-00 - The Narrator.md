@@ -1,5 +1,7 @@
 **Grade:** 0
+
 **Codename:** 0-00
+
 **Name:** "The Narrator"
 
 **Sealing Procedures:** 0-00 is to be kept in a locked metal box sealed behind the Chanis Gate in the Holy Cathedral. The box should be tainted with Chanis Gate's aura at all time to prevent 0-00 from establishing a connection to the outside. The box should also contain several blank sheets of paper and a bottle of black ink. No personnel are allowed to access 0-00 without the permission of at least one current appointed Archbishop.
