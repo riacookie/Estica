@@ -4,7 +4,7 @@
 
 **Name:** "The Narrator"
 
-**Sealing Procedures:** 0-00 is to be kept in a locked metal box sealed behind the Chanis Gate in the Holy Cathedral. The box should be tainted with Chanis Gate's aura at all time to prevent 0-00 from establishing a connection to the outside. The box should also contain several blank sheets of paper and a bottle of black ink. No personnel are allowed to access 0-00 without the permission of at least one current appointed Archbishop.
+**Sealing Procedures:** 0-00 is to be kept in a locked metal box sealed behind the Chanis Gate in the Holy Cathedral. The box should be tainted with Chanis Gate's aura at all time to prevent 0-00 from establishing a connection to the outside. The box should also contain several blank sheets of paper and a bottle of black ink. No personnel are allowed to access 0-00 without the permission of at least one of the current appointed Archbishops.
 
 **Description:** 0-00 is a black feather quill that appears to be made of crow feathers. The quill has a silver tip that can be dipped in any liquid and used as a writing instrument. The quill does not require any external force to write, as it can stand up on its own and move across the paper. The quill is capable of writing in any language, style, and genre, depending on its mood and surroundings.
 
