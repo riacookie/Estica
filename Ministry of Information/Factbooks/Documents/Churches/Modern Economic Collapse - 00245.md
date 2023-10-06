@@ -8,7 +8,7 @@ Security Clearance: 01
 
 The Economic Collapse that occurred on October 21st, 2022 caused a major economic shift in policies for the Kingdom of Estica, resulting in a transition from a democratic to a socialist economy. This led to a significant drop in the overall economy of the kingdom, affecting both the higher-class and lower-class citizens.
 
-The truth behind this sudden transition in policies was not actually due to any economic factors, but rather because of the sudden appearance of an ancient evil existence. 
+The sudden shift in policies was an effort of the government and the thee churches in an attempt to stop the spread of a corruptive force through consumer goods
 
 ##### Incident details:
 
