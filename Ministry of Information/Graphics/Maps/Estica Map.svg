@@ -9,6 +9,9 @@
    id="svg1"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    sodipodi:docname="Estica Map.svg"
+   inkscape:export-filename="Estica Map.png"
+   inkscape:export-xdpi="92.50885"
+   inkscape:export-ydpi="92.50885"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,14 +27,15 @@
      inkscape:deskcolor="#333333"
      inkscape:document-units="px"
      inkscape:zoom="1.8242721"
-     inkscape:cx="329.99464"
-     inkscape:cy="225.84351"
+     inkscape:cx="308.34216"
+     inkscape:cy="194.59816"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer23" />
+     inkscape:current-layer="layer24"
+     showgrid="false" />
   <defs
      id="defs1" />
   <rect
@@ -224,600 +228,668 @@
       </g>
     </g>
     <g
-       id="Icons_Black"
-       style="display:none;stroke-width:2.64022"
-       inkscape:label="icons"
-       transform="matrix(0.37875738,0,0,0.37875738,890.87984,567.14798)"
-       sodipodi:insensitive="true">
-      <polygon
-         id="polygon390_00000065753685581829470360000004153974104017355922_"
-         class="st4"
-         points="1008.4,84.6 1012,77.3 1015.5,84.6 1023.6,85.8 1017.8,91.4 1019.1,99.4 1012,95.6 1004.8,99.4 1006.2,91.4 1000.4,85.8 "
-         style="fill:#f9e63d;stroke-width:2.64022" />
+       inkscape:groupmode="layer"
+       id="layer24"
+       inkscape:label="Map Content"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:9.16236px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.229059"
+         x="598.1214"
+         y="595.46869"
+         id="text2"><tspan
+           sodipodi:role="line"
+           id="tspan2"
+           x="598.1214"
+           y="595.46869"
+           style="stroke-width:0.229059">Chasm of Storm</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.91644px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.172911"
+         x="590.21857"
+         y="603.25452"
+         id="text3"><tspan
+           sodipodi:role="line"
+           id="tspan3"
+           x="590.21857"
+           y="603.25452"
+           style="stroke-width:0.172911">(HQ of Church of Storm)</tspan></text>
       <g
-         id="g394_00000023976153243748684810000002447054468812133566_"
-         style="stroke-width:2.64022">
+         id="g394_00000023976153243748684810000002447054468812133566_-8-4"
+         style="display:inline;fill:#ffcc00;stroke-width:2.64022"
+         transform="matrix(0.45499029,0,0,0.45499029,167.19734,561.53775)"
+         inkscape:label="Church HQ Icon">
         <rect
-           id="rect390_00000177462964302796848380000013840331324506617235_"
+           id="rect390_00000177462964302796848380000013840331324506617235_-5-6"
            x="1008.8"
            y="114.1"
            transform="matrix(0.7071,-0.7071,0.7071,0.7071,213.5457,749.8704)"
            class="st5"
            width="6.1999998"
            height="6.1999998"
-           style="fill:#f7e770;stroke-width:2.64022" />
+           style="fill:#ffcc00;stroke-width:2.64022" />
         <rect
-           id="rect391_00000178899645866547897630000013646642648439081095_"
+           id="rect391_00000178899645866547897630000013646642648439081095_-2-2"
            x="1000.2"
            y="114.1"
            transform="matrix(0.7071,-0.7071,0.7071,0.7071,210.9722,743.7894)"
            class="st5"
            width="6.1999998"
            height="6.1999998"
-           style="fill:#f7e770;stroke-width:2.64022" />
+           style="fill:#ffcc00;stroke-width:2.64022" />
         <rect
-           id="rect392_00000098923672340750900360000008557074128108868268_"
+           id="rect392_00000098923672340750900360000008557074128108868268_-8-9"
            x="1008.8"
            y="122.8"
            transform="matrix(0.7071,-0.7071,0.7071,0.7071,207.394,752.4147)"
            class="st5"
            width="6.1999998"
            height="6.1999998"
-           style="fill:#f7e770;stroke-width:2.64022" />
+           style="fill:#ffcc00;stroke-width:2.64022" />
         <rect
-           id="rect393_00000168101215541242334350000000140865533214879158_"
+           id="rect393_00000168101215541242334350000000140865533214879158_-8-5"
            x="1017.5"
            y="114.1"
            transform="matrix(0.7071,-0.7071,0.7071,0.7071,216.0899,756.0222)"
            class="st5"
            width="6.1999998"
            height="6.1999998"
-           style="fill:#f7e770;stroke-width:2.64022" />
+           style="fill:#ffcc00;stroke-width:2.64022" />
         <rect
-           id="rect394_00000113319966659622599810000013280108317437775792_"
+           id="rect394_00000113319966659622599810000013280108317437775792_-4-1"
            x="1008.9"
            y="105.4"
            transform="matrix(0.7071,-0.7071,0.7071,0.7071,219.6974,747.3262)"
            class="st5"
            width="6.1999998"
            height="6.1999998"
-           style="fill:#f7e770;stroke-width:2.64022" />
+           style="fill:#ffcc00;stroke-width:2.64022" />
       </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.2358px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.305897"
+         x="591.05334"
+         y="645.56226"
+         id="text4"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           x="591.05334"
+           y="645.56226"
+           style="stroke-width:0.305897">Besu Cluster</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.2358px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.305897"
+         x="554.52264"
+         y="778.42688"
+         id="text4-7"><tspan
+           sodipodi:role="line"
+           id="tspan4-0"
+           x="554.52264"
+           y="778.42688"
+           style="stroke-width:0.305897">Bayam Archipelago</tspan></text>
       <circle
-         id="circle394_00000044153094379379727130000018438541994595118740_"
-         class="st6"
-         cx="1012"
-         cy="146"
-         r="9.5"
-         style="fill:#e31c49;stroke-width:2.64022" />
-      <g
-         id="g401_00000104673994987489331910000002081126907938383000_"
-         style="stroke-width:2.64022">
-        <g
-           id="g400_00000125566678074662298170000006679528075684782501_"
-           style="stroke-width:2.64022">
-          <path
-             id="path394_00000165200316088442719410000001378238906612009127_"
-             d="m 1037.8,96.4 c -0.8,0 -1.5,-0.1 -2.2,-0.4 -0.7,-0.3 -1.3,-0.7 -1.8,-1.2 -0.5,-0.5 -0.9,-1.2 -1.2,-1.9 -0.3,-0.7 -0.4,-1.5 -0.4,-2.3 0,-0.8 0.1,-1.6 0.4,-2.3 0.3,-0.7 0.7,-1.3 1.2,-1.9 0.5,-0.5 1.1,-1 1.8,-1.3 0.7,-0.3 1.4,-0.5 2.2,-0.5 0.8,0 1.4,0.1 1.9,0.3 0.5,0.2 1.1,0.5 1.6,1 0.1,0.1 0.1,0.1 0.2,0.2 0,0.1 0.1,0.1 0.1,0.2 0,0.1 0,0.1 0,0.2 0,0.2 -0.1,0.3 -0.2,0.5 -0.1,0.1 -0.3,0.2 -0.5,0.2 -0.2,0 -0.4,0 -0.5,-0.2 -0.4,-0.3 -0.7,-0.6 -1.1,-0.7 -0.4,-0.2 -0.9,-0.2 -1.5,-0.2 -0.6,0 -1.1,0.1 -1.6,0.4 -0.5,0.2 -1,0.6 -1.3,1 -0.4,0.4 -0.7,0.9 -0.9,1.4 -0.2,0.5 -0.3,1.1 -0.3,1.7 0,0.6 0.1,1.2 0.3,1.8 0.2,0.6 0.5,1 0.9,1.4 0.4,0.4 0.8,0.7 1.3,1 0.5,0.2 1.1,0.3 1.6,0.3 0.5,0 1,-0.1 1.4,-0.3 0.4,-0.2 0.9,-0.4 1.3,-0.7 0.2,-0.1 0.4,-0.2 0.5,-0.2 0.2,0 0.3,0.1 0.4,0.2 0.1,0.1 0.2,0.3 0.2,0.5 0,0.1 0,0.2 -0.1,0.3 0,0.1 -0.1,0.2 -0.2,0.3 -0.5,0.4 -1.1,0.7 -1.7,1 -0.5,0.1 -1.2,0.2 -1.8,0.2 z"
-             style="stroke-width:2.64022" />
-          <path
-             id="path395_00000022530737515337608620000003884071246661394877_"
-             d="m 1047.2,96.3 c -0.7,0 -1.4,-0.2 -1.9,-0.5 -0.6,-0.4 -1,-0.8 -1.3,-1.5 -0.3,-0.6 -0.5,-1.3 -0.5,-2.1 0,-0.8 0.2,-1.5 0.5,-2.1 0.3,-0.6 0.8,-1.1 1.5,-1.5 0.7,-0.4 1.3,-0.5 2.1,-0.5 0.8,0 1.4,0.2 2.1,0.5 0.7,0.3 1.1,0.8 1.4,1.5 0.3,0.7 0.5,1.3 0.5,2.1 h -0.6 c 0,0.8 -0.2,1.5 -0.5,2.1 -0.3,0.6 -0.8,1.1 -1.3,1.5 -0.6,0.3 -1.2,0.5 -2,0.5 z m 0.3,-1.3 c 0.5,0 0.9,-0.1 1.3,-0.4 0.4,-0.2 0.7,-0.6 0.9,-1 0.2,-0.4 0.3,-0.9 0.3,-1.4 0,-0.5 -0.1,-1 -0.3,-1.4 -0.2,-0.4 -0.5,-0.7 -0.9,-1 -0.4,-0.2 -0.8,-0.4 -1.3,-0.4 -0.5,0 -0.9,0.1 -1.3,0.4 -0.4,0.2 -0.7,0.6 -0.9,1 -0.2,0.4 -0.3,0.9 -0.3,1.4 0,0.5 0.1,1 0.3,1.4 0.2,0.4 0.5,0.7 0.9,1 0.4,0.2 0.8,0.4 1.3,0.4 z m 3.3,1.2 c -0.2,0 -0.4,-0.1 -0.5,-0.2 -0.1,-0.1 -0.2,-0.3 -0.2,-0.5 v -2.2 l 0.3,-1.6 1.2,0.5 v 3.3 c 0,0.2 -0.1,0.4 -0.2,0.5 -0.1,0.1 -0.4,0.2 -0.6,0.2 z"
-             style="stroke-width:2.64022" />
-          <path
-             id="path396_00000082337430640415002640000012305944337766712491_"
-             d="m 1054.6,99.7 c -0.2,0 -0.4,-0.1 -0.5,-0.2 -0.1,-0.1 -0.2,-0.3 -0.2,-0.5 v -6.7 c 0,-0.8 0.2,-1.5 0.5,-2.1 0.4,-0.6 0.8,-1.1 1.4,-1.5 0.6,-0.4 1.3,-0.5 2.1,-0.5 0.8,0 1.5,0.2 2.1,0.5 0.6,0.4 1.1,0.8 1.4,1.5 0.4,0.6 0.5,1.3 0.5,2.1 0,0.8 -0.2,1.5 -0.5,2.1 -0.3,0.6 -0.8,1.1 -1.3,1.5 -0.6,0.4 -1.2,0.5 -1.9,0.5 -0.6,0 -1.1,-0.1 -1.6,-0.4 -0.5,-0.2 -0.9,-0.6 -1.2,-1 v 4 c 0,0.2 -0.1,0.4 -0.2,0.5 -0.1,0.1 -0.4,0.2 -0.6,0.2 z m 3.3,-4.7 c 0.5,0 0.9,-0.1 1.3,-0.4 0.4,-0.2 0.7,-0.6 0.9,-1 0.2,-0.4 0.3,-0.9 0.3,-1.4 0,-0.5 -0.1,-1 -0.3,-1.4 -0.2,-0.4 -0.5,-0.7 -0.9,-1 -0.4,-0.2 -0.8,-0.4 -1.3,-0.4 -0.5,0 -0.9,0.1 -1.3,0.4 -0.4,0.2 -0.7,0.6 -0.9,1 -0.2,0.4 -0.3,0.9 -0.3,1.4 0,0.5 0.1,1 0.3,1.4 0.2,0.4 0.5,0.7 0.9,1 0.3,0.2 0.8,0.4 1.3,0.4 z"
-             style="stroke-width:2.64022" />
-          <path
-             id="path397_00000056405522639824741520000008700667160247571357_"
-             d="m 1065,86.9 c -0.3,0 -0.5,-0.1 -0.7,-0.3 -0.2,-0.2 -0.3,-0.4 -0.3,-0.7 0,-0.3 0.1,-0.5 0.3,-0.7 0.2,-0.2 0.4,-0.3 0.7,-0.3 0.3,0 0.5,0.1 0.7,0.3 0.2,0.2 0.3,0.4 0.3,0.7 0,0.3 -0.1,0.5 -0.3,0.7 -0.2,0.2 -0.4,0.3 -0.7,0.3 z m 0,9.3 c -0.2,0 -0.4,-0.1 -0.5,-0.2 -0.1,-0.1 -0.2,-0.3 -0.2,-0.5 V 89 c 0,-0.2 0.1,-0.4 0.2,-0.5 0.1,-0.1 0.3,-0.2 0.5,-0.2 0.2,0 0.4,0.1 0.5,0.2 0.1,0.1 0.2,0.3 0.2,0.5 v 6.5 c 0,0.2 -0.1,0.4 -0.2,0.5 -0.1,0.1 -0.2,0.2 -0.5,0.2 z"
-             style="stroke-width:2.64022" />
-          <path
-             id="path398_00000144305197688295234310000015343140058058000269_"
-             d="m 1068.2,89.7 c -0.2,0 -0.4,-0.1 -0.5,-0.2 -0.1,-0.1 -0.2,-0.3 -0.2,-0.4 0,-0.2 0.1,-0.4 0.2,-0.5 0.1,-0.1 0.3,-0.2 0.5,-0.2 h 3.4 c 0.2,0 0.4,0.1 0.5,0.2 0.2,0.2 0.2,0.3 0.2,0.5 0,0.2 -0.1,0.3 -0.2,0.4 -0.1,0.1 -0.3,0.2 -0.5,0.2 z m 3.3,6.5 c -0.5,0 -0.9,-0.1 -1.3,-0.4 -0.4,-0.2 -0.7,-0.6 -0.9,-1 -0.2,-0.4 -0.3,-0.9 -0.3,-1.5 v -7 c 0,-0.2 0.1,-0.4 0.2,-0.5 0.1,-0.1 0.3,-0.2 0.5,-0.2 0.2,0 0.4,0.1 0.5,0.2 0.1,0.1 0.2,0.3 0.2,0.5 v 7 c 0,0.4 0.1,0.7 0.3,1 0.2,0.3 0.5,0.4 0.8,0.4 h 0.5 c 0.2,0 0.3,0.1 0.4,0.2 0.1,0.1 0.2,0.3 0.2,0.5 0,0.2 -0.1,0.4 -0.2,0.5 -0.1,0.1 -0.4,0.2 -0.6,0.2 z"
-             style="stroke-width:2.64022" />
-          <path
-             id="path399_00000085939936590734589860000007230049990268005559_"
-             d="m 1077.8,96.3 c -0.7,0 -1.4,-0.2 -1.9,-0.5 -0.6,-0.4 -1,-0.8 -1.3,-1.5 -0.3,-0.6 -0.5,-1.3 -0.5,-2.1 0,-0.8 0.2,-1.5 0.5,-2.1 0.3,-0.6 0.8,-1.1 1.5,-1.5 0.7,-0.4 1.3,-0.5 2.1,-0.5 0.8,0 1.4,0.2 2.1,0.5 0.7,0.3 1.1,0.8 1.4,1.5 0.3,0.7 0.5,1.3 0.5,2.1 h -0.6 c 0,0.8 -0.2,1.5 -0.5,2.1 -0.3,0.6 -0.8,1.1 -1.3,1.5 -0.6,0.3 -1.3,0.5 -2,0.5 z m 0.3,-1.3 c 0.5,0 0.9,-0.1 1.3,-0.4 0.4,-0.2 0.7,-0.6 0.9,-1 0.2,-0.4 0.3,-0.9 0.3,-1.4 0,-0.5 -0.1,-1 -0.3,-1.4 -0.2,-0.4 -0.5,-0.7 -0.9,-1 -0.4,-0.2 -0.8,-0.4 -1.3,-0.4 -0.5,0 -0.9,0.1 -1.3,0.4 -0.4,0.2 -0.7,0.6 -0.9,1 -0.2,0.4 -0.3,0.9 -0.3,1.4 0,0.5 0.1,1 0.3,1.4 0.2,0.4 0.5,0.7 0.9,1 0.4,0.2 0.8,0.4 1.3,0.4 z m 3.3,1.2 c -0.2,0 -0.4,-0.1 -0.5,-0.2 -0.1,-0.1 -0.2,-0.3 -0.2,-0.5 v -2.2 l 0.3,-1.6 1.2,0.5 v 3.3 c 0,0.2 -0.1,0.4 -0.2,0.5 -0.1,0.1 -0.4,0.2 -0.6,0.2 z"
-             style="stroke-width:2.64022" />
-          <path
-             id="path400_00000165922148818226104760000018295938559664497797_"
-             d="m 1086.3,96.2 c -0.4,0 -0.8,-0.1 -1.1,-0.4 -0.3,-0.2 -0.6,-0.6 -0.8,-1 -0.2,-0.4 -0.3,-0.9 -0.3,-1.4 v -8 c 0,-0.2 0.1,-0.4 0.2,-0.5 0.1,-0.1 0.3,-0.2 0.5,-0.2 0.2,0 0.4,0.1 0.5,0.2 0.1,0.1 0.2,0.3 0.2,0.5 v 8 c 0,0.4 0.1,0.7 0.2,0.9 0.1,0.2 0.3,0.4 0.5,0.4 h 0.4 c 0.2,0 0.4,0.1 0.5,0.2 0.1,0.1 0.2,0.3 0.2,0.5 0,0.2 -0.1,0.4 -0.3,0.5 -0.2,0.1 -0.4,0.3 -0.7,0.3 z"
-             style="stroke-width:2.64022" />
-        </g>
-      </g>
-      <g
-         id="g409_00000155836712223736798410000003740511871833849791_"
-         style="stroke-width:2.64022">
-        <g
-           id="g408_00000158725633334744560250000002226489637582681770_"
-           style="stroke-width:2.64022">
-          <path
-             id="path401_00000059306110492035708810000002761871007187279807_"
-             d="m 1038.6,125.9 c -0.8,0 -1.5,-0.1 -2.2,-0.4 -0.7,-0.3 -1.3,-0.7 -1.8,-1.2 -0.5,-0.5 -0.9,-1.2 -1.2,-1.9 -0.3,-0.7 -0.4,-1.5 -0.4,-2.3 0,-0.8 0.1,-1.6 0.4,-2.3 0.3,-0.7 0.7,-1.3 1.2,-1.9 0.5,-0.5 1.1,-1 1.8,-1.3 0.7,-0.3 1.4,-0.5 2.2,-0.5 0.8,0 1.4,0.1 1.9,0.3 0.5,0.2 1.1,0.5 1.6,1 0.1,0.1 0.1,0.1 0.2,0.2 0,0.1 0.1,0.1 0.1,0.2 0,0.1 0,0.1 0,0.2 0,0.2 -0.1,0.3 -0.2,0.5 -0.1,0.1 -0.3,0.2 -0.5,0.2 -0.2,0 -0.4,0 -0.5,-0.2 -0.4,-0.3 -0.7,-0.6 -1.1,-0.7 -0.4,-0.2 -0.9,-0.2 -1.5,-0.2 -0.6,0 -1.1,0.1 -1.6,0.4 -0.5,0.2 -1,0.6 -1.3,1 -0.4,0.4 -0.7,0.9 -0.9,1.4 -0.2,0.5 -0.3,1.1 -0.3,1.7 0,0.6 0.1,1.2 0.3,1.8 0.2,0.6 0.5,1 0.9,1.4 0.4,0.4 0.8,0.7 1.3,1 0.5,0.2 1.1,0.3 1.6,0.3 0.5,0 1,-0.1 1.4,-0.3 0.4,-0.2 0.9,-0.4 1.3,-0.7 0.2,-0.1 0.4,-0.2 0.5,-0.2 0.2,0 0.3,0.1 0.4,0.2 0.1,0.1 0.2,0.3 0.2,0.5 0,0.1 0,0.2 -0.1,0.3 0,0.1 -0.1,0.2 -0.2,0.3 -0.5,0.4 -1.1,0.7 -1.7,1 -0.5,0.1 -1.1,0.2 -1.8,0.2 z"
-             style="stroke-width:2.64022" />
-          <path
-             id="path402_00000138543495257686916260000016974943086474907551_"
-             d="m 1045.5,122.9 c -0.2,0 -0.4,-0.1 -0.5,-0.2 -0.1,-0.1 -0.2,-0.3 -0.2,-0.5 v -7.1 c 0,-0.2 0.1,-0.4 0.2,-0.5 0.1,-0.1 0.3,-0.2 0.5,-0.2 0.2,0 0.4,0.1 0.5,0.2 0.1,0.1 0.2,0.3 0.2,0.5 v 7 c 0,0.2 -0.1,0.4 -0.2,0.5 -0.1,0.2 -0.3,0.3 -0.5,0.3 z m 0,2.9 c -0.2,0 -0.4,-0.1 -0.5,-0.2 -0.1,-0.1 -0.2,-0.3 -0.2,-0.5 v -6.6 c 0,-0.2 0.1,-0.4 0.2,-0.5 0.1,-0.1 0.3,-0.2 0.5,-0.2 0.2,0 0.4,0.1 0.5,0.2 0.1,0.1 0.2,0.3 0.2,0.5 v 6.6 c 0,0.2 -0.1,0.4 -0.2,0.5 -0.1,0.1 -0.3,0.2 -0.5,0.2 z m 6.1,0 c -0.2,0 -0.4,-0.1 -0.5,-0.2 -0.1,-0.1 -0.2,-0.3 -0.2,-0.5 v -3.6 c 0,-0.6 -0.1,-1 -0.3,-1.4 -0.2,-0.4 -0.5,-0.6 -0.8,-0.8 -0.3,-0.2 -0.7,-0.3 -1.2,-0.3 -0.4,0 -0.8,0.1 -1.1,0.2 -0.3,0.2 -0.6,0.4 -0.8,0.7 -0.2,0.3 -0.3,0.6 -0.3,1 h -0.9 c 0,-0.6 0.1,-1.2 0.4,-1.7 0.3,-0.5 0.7,-0.9 1.2,-1.2 0.5,-0.3 1.1,-0.4 1.7,-0.4 0.7,0 1.3,0.1 1.8,0.4 0.5,0.3 1,0.7 1.3,1.3 0.3,0.6 0.5,1.2 0.5,2.1 v 3.6 c 0,0.2 -0.1,0.4 -0.2,0.5 -0.1,0.1 -0.4,0.3 -0.6,0.3 z"
-             style="stroke-width:2.64022" />
-          <path
-             id="path403_00000020395993607210085870000015757276399965362085_"
-             d="m 1058.2,125.9 c -0.7,0 -1.3,-0.1 -1.8,-0.4 -0.5,-0.3 -1,-0.7 -1.3,-1.3 -0.3,-0.6 -0.5,-1.2 -0.5,-2.1 v -3.6 c 0,-0.2 0.1,-0.4 0.2,-0.5 0.1,-0.1 0.3,-0.2 0.5,-0.2 0.2,0 0.4,0.1 0.5,0.2 0.1,0.1 0.2,0.3 0.2,0.5 v 3.6 c 0,0.5 0.1,1 0.3,1.4 0.2,0.4 0.5,0.6 0.8,0.8 0.4,0.2 0.7,0.3 1.2,0.3 0.4,0 0.8,-0.1 1.1,-0.2 0.3,-0.2 0.6,-0.4 0.8,-0.7 0.2,-0.3 0.3,-0.6 0.3,-1 h 0.9 c 0,0.6 -0.1,1.2 -0.4,1.6 -0.3,0.4 -0.7,0.9 -1.2,1.2 -0.4,0.2 -1,0.4 -1.6,0.4 z m 3.2,-0.1 c -0.2,0 -0.4,-0.1 -0.5,-0.2 -0.1,-0.1 -0.2,-0.4 -0.2,-0.6 v -6.6 c 0,-0.2 0.1,-0.4 0.2,-0.5 0.1,-0.1 0.3,-0.2 0.5,-0.2 0.2,0 0.4,0.1 0.5,0.2 0.1,0.1 0.2,0.3 0.2,0.5 v 6.6 c 0,0.2 -0.1,0.4 -0.2,0.5 -0.1,0.1 -0.2,0.3 -0.5,0.3 z"
-             style="stroke-width:2.64022" />
-          <path
-             id="path404_00000080899985528117204720000006971486037560021666_"
-             d="m 1065.6,125.8 c -0.2,0 -0.4,-0.1 -0.5,-0.2 -0.1,-0.1 -0.2,-0.3 -0.2,-0.6 v -6.6 c 0,-0.2 0.1,-0.4 0.2,-0.5 0.1,-0.1 0.3,-0.2 0.5,-0.2 0.2,0 0.4,0.1 0.6,0.2 0.2,0.1 0.2,0.3 0.2,0.6 v 6.6 c 0,0.2 -0.1,0.4 -0.2,0.5 -0.1,0.1 -0.4,0.2 -0.6,0.2 z m -0.1,-5 c 0,-0.6 0.1,-1.1 0.4,-1.6 0.3,-0.5 0.7,-0.8 1.2,-1.1 0.5,-0.3 1,-0.4 1.6,-0.4 0.6,0 1,0.1 1.3,0.3 0.3,0.2 0.4,0.4 0.3,0.7 0,0.1 -0.1,0.2 -0.2,0.3 -0.1,0.1 -0.2,0.1 -0.3,0.1 -0.1,0 -0.2,0 -0.4,0 -0.6,-0.1 -1.2,-0.1 -1.7,0 -0.5,0.1 -0.9,0.3 -1.2,0.6 -0.3,0.3 -0.4,0.7 -0.4,1.1 z"
-             style="stroke-width:2.64022" />
-          <path
-             id="path405_00000121962468548116775410000010132329813270432128_"
-             d="m 1075.6,125.8 c -0.8,0 -1.5,-0.2 -2.1,-0.5 -0.6,-0.4 -1.1,-0.8 -1.4,-1.5 -0.3,-0.7 -0.5,-1.3 -0.5,-2.1 0,-0.8 0.2,-1.5 0.5,-2.1 0.3,-0.6 0.8,-1.1 1.4,-1.4 0.6,-0.3 1.3,-0.5 2.1,-0.5 0.6,0 1.1,0.1 1.6,0.3 0.5,0.2 0.9,0.6 1.3,1 0.1,0.2 0.2,0.3 0.1,0.5 0,0.2 -0.1,0.3 -0.3,0.4 -0.1,0.1 -0.3,0.1 -0.5,0.1 -0.2,0 -0.3,-0.1 -0.5,-0.3 -0.5,-0.5 -1.1,-0.8 -1.8,-0.8 -0.5,0 -0.9,0.1 -1.3,0.3 -0.4,0.2 -0.7,0.6 -0.9,1 -0.2,0.4 -0.3,0.9 -0.3,1.5 0,0.5 0.1,1 0.3,1.4 0.2,0.4 0.5,0.7 0.9,1 0.4,0.2 0.8,0.4 1.4,0.4 0.3,0 0.6,0 0.9,-0.1 0.3,-0.1 0.5,-0.2 0.7,-0.4 0.2,-0.1 0.3,-0.2 0.5,-0.2 0.2,0 0.3,0 0.4,0.1 0.2,0.1 0.3,0.3 0.3,0.5 0,0.2 0,0.3 -0.2,0.5 -0.7,0.6 -1.5,0.9 -2.6,0.9 z"
-             style="stroke-width:2.64022" />
-          <path
-             id="path406_00000133506692045381835780000009900185074783669634_"
-             d="m 1081.5,122.9 c -0.2,0 -0.4,-0.1 -0.5,-0.2 -0.1,-0.1 -0.2,-0.3 -0.2,-0.5 v -7.1 c 0,-0.2 0.1,-0.4 0.2,-0.5 0.1,-0.1 0.3,-0.2 0.5,-0.2 0.2,0 0.4,0.1 0.5,0.2 0.1,0.1 0.2,0.3 0.2,0.5 v 7 c 0,0.2 -0.1,0.4 -0.2,0.5 -0.1,0.2 -0.2,0.3 -0.5,0.3 z m 0,2.9 c -0.2,0 -0.4,-0.1 -0.5,-0.2 -0.1,-0.1 -0.2,-0.3 -0.2,-0.5 v -6.6 c 0,-0.2 0.1,-0.4 0.2,-0.5 0.1,-0.1 0.3,-0.2 0.5,-0.2 0.2,0 0.4,0.1 0.5,0.2 0.1,0.1 0.2,0.3 0.2,0.5 v 6.6 c 0,0.2 -0.1,0.4 -0.2,0.5 -0.1,0.1 -0.2,0.2 -0.5,0.2 z m 6.1,0 c -0.2,0 -0.4,-0.1 -0.5,-0.2 -0.1,-0.1 -0.2,-0.3 -0.2,-0.5 v -3.6 c 0,-0.6 -0.1,-1 -0.3,-1.4 -0.2,-0.4 -0.5,-0.6 -0.8,-0.8 -0.3,-0.2 -0.7,-0.3 -1.2,-0.3 -0.4,0 -0.8,0.1 -1.1,0.2 -0.3,0.2 -0.6,0.4 -0.8,0.7 -0.2,0.3 -0.3,0.6 -0.3,1 h -0.9 c 0,-0.6 0.1,-1.2 0.4,-1.7 0.3,-0.5 0.7,-0.9 1.2,-1.2 0.5,-0.3 1.1,-0.4 1.7,-0.4 0.7,0 1.3,0.1 1.8,0.4 0.5,0.3 1,0.7 1.3,1.3 0.3,0.6 0.5,1.2 0.5,2.1 v 3.6 c 0,0.2 -0.1,0.4 -0.2,0.5 -0.1,0.1 -0.4,0.3 -0.6,0.3 z"
-             style="stroke-width:2.64022" />
-          <path
-             id="path407_00000145771111602301980150000017808970162172453760_"
-             d="m 1096,125.8 c -0.2,0 -0.4,-0.1 -0.5,-0.2 -0.1,-0.1 -0.2,-0.3 -0.2,-0.5 v -10 c 0,-0.2 0.1,-0.4 0.2,-0.6 0.1,-0.1 0.3,-0.2 0.5,-0.2 0.2,0 0.4,0.1 0.6,0.2 0.1,0.1 0.2,0.3 0.2,0.6 v 4.2 h 6.8 v -4.2 c 0,-0.2 0.1,-0.4 0.2,-0.6 0.1,-0.1 0.3,-0.2 0.5,-0.2 0.2,0 0.4,0.1 0.5,0.2 0.1,0.1 0.2,0.3 0.2,0.6 v 9.9 c 0,0.2 -0.1,0.4 -0.2,0.5 -0.1,0.1 -0.3,0.2 -0.5,0.2 -0.2,0 -0.4,-0.1 -0.5,-0.2 -0.1,-0.1 -0.2,-0.3 -0.2,-0.5 v -4.4 h -6.8 v 4.4 c 0,0.2 -0.1,0.4 -0.2,0.5 -0.1,0.1 -0.3,0.3 -0.6,0.3 z"
-             style="stroke-width:2.64022" />
-          <path
-             id="path408_00000171692381947600316880000017416069584909897642_"
-             d="m 1113.4,125.9 c -0.9,0 -1.7,-0.1 -2.4,-0.4 -0.7,-0.3 -1.3,-0.7 -1.8,-1.2 -0.5,-0.5 -0.9,-1.1 -1.2,-1.9 -0.3,-0.7 -0.4,-1.5 -0.4,-2.4 0,-0.9 0.1,-1.7 0.4,-2.4 0.3,-0.7 0.7,-1.3 1.2,-1.9 0.5,-0.6 1.1,-0.9 1.8,-1.2 0.7,-0.3 1.5,-0.4 2.4,-0.4 0.9,0 1.6,0.1 2.4,0.4 0.8,0.3 1.3,0.7 1.8,1.2 0.5,0.5 0.9,1.1 1.2,1.9 0.3,0.7 0.4,1.5 0.4,2.4 0,0.9 -0.1,1.7 -0.4,2.4 -0.3,0.7 -0.7,1.3 -1.2,1.9 -0.5,0.5 -1.1,0.9 -1.8,1.2 -0.8,0.3 -1.6,0.4 -2.4,0.4 z m 0,-1.4 c 0.6,0 1.2,-0.1 1.8,-0.3 0.5,-0.2 1,-0.5 1.4,-1 0.4,-0.4 0.7,-0.9 0.9,-1.4 0.2,-0.5 0.3,-1.1 0.3,-1.8 0,-0.7 -0.1,-1.2 -0.3,-1.8 -0.2,-0.5 -0.5,-1 -0.9,-1.4 -0.4,-0.4 -0.9,-0.7 -1.4,-0.9 -0.5,-0.2 -1.1,-0.3 -1.8,-0.3 -0.7,0 -1.2,0.1 -1.8,0.3 -0.5,0.2 -1,0.5 -1.4,0.9 -0.4,0.4 -0.7,0.9 -0.9,1.4 -0.2,0.5 -0.3,1.1 -0.3,1.8 0,0.7 0.1,1.2 0.3,1.8 0.2,0.5 0.5,1 0.9,1.4 0.4,0.4 0.8,0.7 1.4,1 0.6,0.2 1.1,0.3 1.8,0.3 z m 4,1 -3.1,-3.1 c -0.2,-0.2 -0.2,-0.3 -0.2,-0.5 0,-0.2 0.1,-0.4 0.2,-0.5 0.1,-0.1 0.3,-0.2 0.5,-0.2 0.2,0 0.4,0.1 0.5,0.2 l 3.1,3.1 c 0.1,0.2 0.2,0.3 0.2,0.5 0,0.2 -0.1,0.4 -0.2,0.5 -0.1,0.1 -0.3,0.2 -0.5,0.2 -0.2,0 -0.4,0 -0.5,-0.2 z"
-             style="stroke-width:2.64022" />
-        </g>
-      </g>
-      <g
-         id="g413_00000021813148502268143330000003609959617117546416_"
-         style="stroke-width:2.64022">
-        <g
-           id="g412_00000054240108637398492750000006795587030580268197_"
-           style="stroke-width:2.64022">
-          <path
-             id="path409_00000099649893951457392920000006414896203685345667_"
-             d="m 1038.1,152 c -0.8,0 -1.5,-0.1 -2.2,-0.4 -0.7,-0.3 -1.3,-0.7 -1.8,-1.2 -0.5,-0.5 -0.9,-1.2 -1.2,-1.9 -0.3,-0.7 -0.4,-1.5 -0.4,-2.3 0,-0.8 0.1,-1.6 0.4,-2.3 0.3,-0.7 0.7,-1.3 1.2,-1.9 0.5,-0.5 1.1,-1 1.8,-1.3 0.7,-0.3 1.4,-0.5 2.2,-0.5 0.8,0 1.4,0.1 1.9,0.3 0.5,0.2 1.1,0.5 1.6,1 0.1,0.1 0.1,0.1 0.2,0.2 0,0.1 0.1,0.1 0.1,0.2 0,0.1 0,0.1 0,0.2 0,0.2 -0.1,0.3 -0.2,0.5 -0.1,0.1 -0.3,0.2 -0.5,0.2 -0.2,0 -0.4,0 -0.5,-0.2 -0.4,-0.3 -0.7,-0.6 -1.1,-0.7 -0.4,-0.2 -0.9,-0.2 -1.5,-0.2 -0.6,0 -1.1,0.1 -1.6,0.4 -0.5,0.2 -1,0.6 -1.3,1 -0.4,0.4 -0.7,0.9 -0.9,1.4 -0.2,0.5 -0.3,1.1 -0.3,1.7 0,0.6 0.1,1.2 0.3,1.8 0.2,0.6 0.5,1 0.9,1.4 0.4,0.4 0.8,0.7 1.3,1 0.5,0.2 1.1,0.3 1.6,0.3 0.5,0 1,-0.1 1.4,-0.3 0.4,-0.2 0.9,-0.4 1.3,-0.7 0.2,-0.1 0.4,-0.2 0.5,-0.2 0.2,0 0.3,0.1 0.4,0.2 0.1,0.1 0.2,0.3 0.2,0.5 0,0.1 0,0.2 -0.1,0.3 0,0.1 -0.1,0.2 -0.2,0.3 -0.5,0.4 -1.1,0.7 -1.7,1 -0.5,0.1 -1.1,0.2 -1.8,0.2 z"
-             style="stroke-width:2.64022" />
-          <path
-             id="path410_00000147209463323988016470000016704022672160461220_"
-             d="m 1045.1,142.5 c -0.3,0 -0.5,-0.1 -0.7,-0.3 -0.2,-0.2 -0.3,-0.4 -0.3,-0.7 0,-0.3 0.1,-0.5 0.3,-0.7 0.2,-0.2 0.4,-0.3 0.7,-0.3 0.3,0 0.5,0.1 0.7,0.3 0.2,0.2 0.3,0.4 0.3,0.7 0,0.3 -0.1,0.5 -0.3,0.7 -0.2,0.2 -0.4,0.3 -0.7,0.3 z m 0,9.3 c -0.2,0 -0.4,-0.1 -0.5,-0.2 -0.1,-0.1 -0.2,-0.3 -0.2,-0.5 v -6.5 c 0,-0.2 0.1,-0.4 0.2,-0.5 0.1,-0.1 0.3,-0.2 0.5,-0.2 0.2,0 0.4,0.1 0.5,0.2 0.1,0.1 0.2,0.3 0.2,0.5 v 6.5 c 0,0.2 -0.1,0.4 -0.2,0.5 -0.1,0.1 -0.3,0.2 -0.5,0.2 z"
-             style="stroke-width:2.64022" />
-          <path
-             id="path411_00000061463167766394650330000007635167317579241143_"
-             d="m 1048.3,145.4 c -0.2,0 -0.4,-0.1 -0.5,-0.2 -0.1,-0.1 -0.2,-0.3 -0.2,-0.4 0,-0.2 0.1,-0.4 0.2,-0.5 0.1,-0.1 0.3,-0.2 0.5,-0.2 h 3.4 c 0.2,0 0.4,0.1 0.5,0.2 0.1,0.1 0.2,0.3 0.2,0.5 0,0.2 -0.1,0.3 -0.2,0.4 -0.1,0.1 -0.3,0.2 -0.5,0.2 z m 3.3,6.4 c -0.5,0 -0.9,-0.1 -1.3,-0.4 -0.4,-0.2 -0.7,-0.6 -0.9,-1 -0.2,-0.4 -0.3,-0.9 -0.3,-1.5 v -7 c 0,-0.2 0.1,-0.4 0.2,-0.5 0.1,-0.1 0.3,-0.2 0.5,-0.2 0.2,0 0.4,0.1 0.5,0.2 0.1,0.1 0.2,0.3 0.2,0.5 v 7 c 0,0.4 0.1,0.7 0.3,1 0.2,0.3 0.5,0.4 0.8,0.4 h 0.5 c 0.2,0 0.3,0.1 0.4,0.2 0.1,0.1 0.2,0.3 0.2,0.5 0,0.2 -0.1,0.4 -0.2,0.5 -0.1,0.1 -0.4,0.2 -0.6,0.2 h -0.3 z"
-             style="stroke-width:2.64022" />
-          <path
-             id="path412_00000160157290289610350430000002319650751425534604_"
-             d="m 1057.7,151.5 c -0.2,0.1 -0.4,0.1 -0.5,0 -0.2,-0.1 -0.3,-0.2 -0.4,-0.4 l -3.4,-6.4 c -0.1,-0.2 -0.1,-0.4 0,-0.5 0.1,-0.2 0.2,-0.3 0.4,-0.4 0.2,-0.1 0.4,-0.1 0.5,0 0.2,0.1 0.3,0.2 0.4,0.4 l 3.2,6.4 c 0.1,0.2 0.1,0.4 0.1,0.5 0,0.1 -0.1,0.3 -0.3,0.4 z m -1.7,3.9 c -0.1,0 -0.2,0 -0.4,-0.1 -0.4,-0.2 -0.5,-0.5 -0.4,-0.9 l 4.5,-10.1 c 0.2,-0.4 0.5,-0.5 0.9,-0.4 0.4,0.2 0.6,0.5 0.4,0.9 l -4.4,10.1 c -0.2,0.3 -0.3,0.5 -0.6,0.5 z"
-             style="stroke-width:2.64022" />
-        </g>
-      </g>
-      <g
-         id="g394_00000003786993387944179850000010773924830748158396_"
-         style="stroke-width:2.64022">
-        <rect
-           id="rect390_00000005251312041745376200000015715111919367436968_"
-           x="295.70001"
-           y="313.20001"
-           transform="matrix(0.7071,-0.7071,0.7071,0.7071,-135.8869,303.3269)"
-           class="st5"
-           width="5.0999999"
-           height="5.0999999"
-           style="fill:#f7e770;stroke-width:2.64022" />
-        <rect
-           id="rect391_00000106108216432437925780000007693737956087877026_"
-           x="288.60001"
-           y="313.20001"
-           transform="matrix(0.7071,-0.7071,0.7071,0.7071,-137.9968,298.3415)"
-           class="st5"
-           width="5.0999999"
-           height="5.0999999"
-           style="fill:#f7e770;stroke-width:2.64022" />
-        <rect
-           id="rect392_00000088815206716387792380000003521085677960535702_"
-           x="295.70001"
-           y="320.29999"
-           transform="matrix(0.7071,-0.7071,0.7071,0.7071,-140.9303,305.4128)"
-           class="st5"
-           width="5.0999999"
-           height="5.0999999"
-           style="fill:#f7e770;stroke-width:2.64022" />
-        <rect
-           id="rect393_00000140716985833621627010000000819572509203889043_"
-           x="302.79999"
-           y="313.20001"
-           transform="matrix(0.7071,-0.7071,0.7071,0.7071,-133.801,308.3704)"
-           class="st5"
-           width="5.0999999"
-           height="5.0999999"
-           style="fill:#f7e770;stroke-width:2.64022" />
-        <rect
-           id="rect394_00000030487662032426593830000015096426585684263318_"
-           x="295.70001"
-           y="306"
-           transform="matrix(0.7071,-0.7071,0.7071,0.7071,-130.8435,301.2411)"
-           class="st5"
-           width="5.0999999"
-           height="5.0999999"
-           style="fill:#f7e770;stroke-width:2.64022" />
-      </g>
-      <circle
-         id="circle394_00000183234464492293007700000014396677351732299694_"
-         class="st6"
-         cx="680.70001"
-         cy="373.10001"
-         r="7.8000002"
-         style="fill:#e31c49;stroke-width:2.64022" />
+         style="display:inline;fill:#e31c49;fill-opacity:1;stroke-width:0.154548"
+         id="path10-3"
+         cx="569.45868"
+         cy="737.33533"
+         r="3.8122952"
+         inkscape:label="City Icon" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.85482px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.221371"
+         x="516.4024"
+         y="740.34491"
+         id="text3-1"><tspan
+           sodipodi:role="line"
+           id="tspan3-8"
+           x="516.4024"
+           y="740.34491"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.85482px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.221371">Bayam City</tspan></text>
+      <rect
+         x="573.44122"
+         y="713.76685"
+         class="st23"
+         width="6.8847814"
+         height="6.8847814"
+         id="rect1977-5-9"
+         style="display:inline;fill:#38489e;stroke-width:0.811487"
+         inkscape:label="Harbor Icon" />
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.5238px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.338093"
+         x="773.83801"
+         y="677.05743"
+         id="text8-2"
+         inkscape:label="Capital"><tspan
+           sodipodi:role="line"
+           id="tspan8-9"
+           x="773.83801"
+           y="677.05743"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.5238px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.338093">Althea</tspan></text>
       <polygon
-         id="polygon390_00000052104602416288133270000013101107688229576598_"
+         id="polygon390_00000065753685581829470360000004153974104017355922_-6-8"
          class="st4"
-         points="565.8,427.4 569.4,420.1 572.9,427.4 581,428.6 575.2,434.2 576.5,442.2 569.4,438.4 562.2,442.2 563.6,434.2 557.8,428.6 "
-         style="fill:#f9e63d;stroke-width:2.64022" />
-      <circle
-         id="circle394_00000007424152594688518470000000912163074464134046_"
-         class="st6"
-         cx="626.90002"
-         cy="619.70001"
-         r="7.8000002"
-         style="fill:#e31c49;stroke-width:2.64022" />
-      <circle
-         id="circle394_00000111149268302633850220000006623218278927749049_"
-         class="st6"
-         cx="762.29999"
-         cy="284.5"
-         r="7.8000002"
-         style="fill:#e31c49;stroke-width:2.64022" />
-      <circle
-         id="circle394_00000159458308662975238380000014658244410557230527_"
-         class="st6"
-         cx="612.29999"
-         cy="500.60001"
-         r="7.8000002"
-         style="fill:#e31c49;stroke-width:2.64022" />
+         points="1023.6,85.8 1017.8,91.4 1019.1,99.4 1012,95.6 1004.8,99.4 1006.2,91.4 1000.4,85.8 1008.4,84.6 1012,77.3 1015.5,84.6 "
+         style="display:inline;fill:#ffcc00;stroke-width:2.64022"
+         transform="matrix(0.70569641,0,0,0.74082157,49.788318,605.80973)"
+         inkscape:label="Captial Icon" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.38501px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.184626"
+         x="553.03003"
+         y="712.16595"
+         id="text3-1-5"><tspan
+           sodipodi:role="line"
+           id="tspan3-8-8"
+           x="553.03003"
+           y="712.16595"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.38501px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.184626">Bayam Harbor</tspan></text>
+      <rect
+         x="749.37323"
+         y="581.55072"
+         class="st23"
+         width="7.4329443"
+         height="7.4329443"
+         id="rect1977-5-9-1"
+         style="display:inline;fill:#38489e;stroke-width:0.87609"
+         inkscape:label="Harbor Icon" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.38501px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.184626"
+         x="760.3869"
+         y="587.86304"
+         id="text3-1-5-2"><tspan
+           sodipodi:role="line"
+           id="tspan3-8-8-0"
+           x="760.3869"
+           y="587.86304"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.38501px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.184626">Rolls Harbor</tspan></text>
+      <rect
+         x="749.56165"
+         y="652.84454"
+         class="st23"
+         width="7.4329443"
+         height="7.4329443"
+         id="rect1977-5-9-1-0"
+         style="display:inline;fill:#38489e;stroke-width:0.87609"
+         inkscape:label="Harbor Icon" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.38501px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.184626"
+         x="759.99261"
+         y="659.15686"
+         id="text3-1-5-2-5"><tspan
+           sodipodi:role="line"
+           x="759.99261"
+           y="659.15686"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.38501px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.184626"
+           id="tspan5">Pritz Harbor</tspan></text>
+      <rect
+         x="825.87372"
+         y="919.84106"
+         class="st23"
+         width="7.4329443"
+         height="7.4329443"
+         id="rect1977-5-9-1-0-3"
+         style="display:inline;fill:#38489e;stroke-width:0.87609"
+         inkscape:label="Harbor Icon" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.38501px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.184626"
+         x="809.77618"
+         y="933.71179"
+         id="text3-1-5-2-5-8"><tspan
+           sodipodi:role="line"
+           x="809.77618"
+           y="933.71179"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.38501px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.184626"
+           id="tspan5-1">Pritz Harbor</tspan></text>
+      <rect
+         x="745.12933"
+         y="754.24835"
+         class="st23"
+         width="7.4329443"
+         height="7.4329443"
+         id="rect1977-5-9-1-0-5"
+         style="display:inline;fill:#38489e;stroke-width:0.87609"
+         inkscape:label="Harbor Icon" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.38501px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.184626"
+         x="755.5603"
+         y="760.56067"
+         id="text3-1-5-2-5-4"><tspan
+           sodipodi:role="line"
+           x="755.5603"
+           y="760.56067"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.38501px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.184626"
+           id="tspan5-0">Desi Harbor</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.2409px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.331023"
+         x="762.3042"
+         y="709.4563"
+         id="text2-2"><tspan
+           sodipodi:role="line"
+           id="tspan2-6"
+           x="762.3042"
+           y="709.4563"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.2409px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.331023">Awwa County</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.0018px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.300045"
+         x="799.65344"
+         y="610.26544"
+         id="text2-2-0"><tspan
+           sodipodi:role="line"
+           id="tspan2-6-2"
+           x="799.65344"
+           y="610.26544"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.0018px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.300045">Midseashire</tspan><tspan
+           sodipodi:role="line"
+           x="799.65344"
+           y="625.2677"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.0018px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.300045"
+           id="tspan6">County</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.2409px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.331023"
+         x="760.91711"
+         y="786.6167"
+         id="text2-2-6"><tspan
+           sodipodi:role="line"
+           id="tspan2-6-6"
+           x="760.91711"
+           y="786.6167"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.2409px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.331023">Desi County</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.9997px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.299993"
+         x="917.99323"
+         y="687.8042"
+         id="text2-2-6-4"><tspan
+           sodipodi:role="line"
+           id="tspan2-6-6-9"
+           x="917.99323"
+           y="687.8042"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.9997px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.299993">East Chester</tspan><tspan
+           sodipodi:role="line"
+           x="917.99323"
+           y="702.80383"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.9997px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.299993"
+           id="tspan7">County</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.2409px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.331023"
+         x="857.95984"
+         y="610.7915"
+         id="text2-2-2"><tspan
+           sodipodi:role="line"
+           id="tspan2-6-66"
+           x="857.95984"
+           y="610.7915"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.2409px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.331023">Winter County</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.2409px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.331023"
+         x="921.61597"
+         y="847.81152"
+         id="text2-2-6-43"><tspan
+           sodipodi:role="line"
+           id="tspan2-6-6-6"
+           x="921.61597"
+           y="847.81152"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.2409px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.331023">Southville County</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.2409px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.331023"
+         x="796.22211"
+         y="849.78278"
+         id="text2-2-6-43-1"><tspan
+           sodipodi:role="line"
+           id="tspan2-6-6-6-3"
+           x="796.22211"
+           y="849.78278"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.2409px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.331023">Cécilis County</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.2409px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.331023"
+         x="879.75696"
+         y="768.75897"
+         id="text2-2-6-41"><tspan
+           sodipodi:role="line"
+           id="tspan2-6-6-93"
+           x="879.75696"
+           y="768.75897"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.2409px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.331023">Riston County</tspan></text>
+      <rect
+         x="967.86261"
+         y="868.3161"
+         class="st23"
+         width="7.4329443"
+         height="7.4329443"
+         id="rect1977-5-9-1-0-3-3"
+         style="display:inline;fill:#38489e;stroke-width:0.87609"
+         inkscape:label="Harbor Icon" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.38501px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.184626"
+         x="948.4751"
+         y="866.8382"
+         id="text3-1-5-2-5-8-7"><tspan
+           sodipodi:role="line"
+           x="948.4751"
+           y="866.8382"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.38501px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.184626"
+           id="tspan5-1-1">Enmat Harbor</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:7.7067px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.192668"
+         x="893.63086"
+         y="636.1601"
+         id="text2-6"><tspan
+           sodipodi:role="line"
+           id="tspan2-2"
+           x="893.63086"
+           y="636.1601"
+           style="stroke-width:0.192668">Cathedral of Serenity</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.8176px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14544"
+         x="891.36108"
+         y="642.70898"
+         id="text3-3"><tspan
+           sodipodi:role="line"
+           id="tspan3-6"
+           x="891.36108"
+           y="642.70898"
+           style="stroke-width:0.14544">(HQ of Church of Evernight)</tspan></text>
       <g
-         id="g394_00000149341164829264918640000000357521629902432928_"
-         style="stroke-width:2.64022">
+         id="g394_00000023976153243748684810000002447054468812133566_-8-4-9"
+         style="display:inline;fill:#ffcc00;stroke-width:2.64022"
+         transform="matrix(0.45499029,0,0,0.45499029,466.75705,600.66327)"
+         inkscape:label="Church HQ Icon">
         <rect
-           id="rect390_00000124879214574734539430000001701513372896938904_"
-           x="930"
-           y="434.79999"
-           transform="matrix(0.7071,-0.7071,0.7071,0.7071,-36.1501,787.5073)"
+           id="rect390_00000177462964302796848380000013840331324506617235_-5-6-0"
+           x="632.53314"
+           y="792.35529"
+           transform="rotate(-45)"
            class="st5"
-           width="5.0999999"
-           height="5.0999999"
-           style="fill:#f7e770;stroke-width:2.64022" />
+           width="6.1999402"
+           height="6.1999402"
+           style="fill:#ffcc00;stroke-width:2.64019" />
         <rect
-           id="rect391_00000102503138621812666130000002263174541070180543_"
-           x="922.90002"
-           y="434.89999"
-           transform="matrix(0.7071,-0.7071,0.7071,0.7071,-38.26,782.5219)"
+           id="rect391_00000178899645866547897630000013646642648439081095_-2-2-8"
+           x="626.41345"
+           y="786.2356"
+           transform="rotate(-45)"
            class="st5"
-           width="5.0999999"
-           height="5.0999999"
-           style="fill:#f7e770;stroke-width:2.64022" />
+           width="6.1999402"
+           height="6.1999402"
+           style="fill:#ffcc00;stroke-width:2.64019" />
         <rect
-           id="rect392_00000089535584368931205900000015376884371081028540_"
-           x="930"
-           y="442"
-           transform="matrix(0.7071,-0.7071,0.7071,0.7071,-41.1935,789.5933)"
+           id="rect392_00000098923672340750900360000008557074128108868268_-8-9-5"
+           x="626.38416"
+           y="798.50439"
+           transform="rotate(-45)"
            class="st5"
-           width="5.0999999"
-           height="5.0999999"
-           style="fill:#f7e770;stroke-width:2.64022" />
+           width="6.1999402"
+           height="6.1999402"
+           style="fill:#ffcc00;stroke-width:2.64019" />
         <rect
-           id="rect393_00000068651835851140476860000002889530901281192844_"
-           x="937.09998"
-           y="434.89999"
-           transform="matrix(0.7071,-0.7071,0.7071,0.7071,-34.0642,792.5508)"
+           id="rect393_00000168101215541242334350000000140865533214879158_-8-5-0"
+           x="638.68213"
+           y="798.50427"
+           transform="rotate(-45)"
            class="st5"
-           width="5.0999999"
-           height="5.0999999"
-           style="fill:#f7e770;stroke-width:2.64022" />
+           width="6.1999402"
+           height="6.1999402"
+           style="fill:#ffcc00;stroke-width:2.64019" />
         <rect
-           id="rect394_00000090278911394202120460000017967197214796941752_"
-           x="930"
-           y="427.70001"
-           transform="matrix(0.7071,-0.7071,0.7071,0.7071,-31.1067,785.4215)"
+           id="rect394_00000113319966659622599810000013280108317437775792_-4-1-2"
+           x="638.7821"
+           y="786.20624"
+           transform="rotate(-45)"
            class="st5"
-           width="5.0999999"
-           height="5.0999999"
-           style="fill:#f7e770;stroke-width:2.64022" />
+           width="6.1999402"
+           height="6.1999402"
+           style="fill:#ffcc00;stroke-width:2.64019" />
       </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:7.7067px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.192668"
+         x="854.5564"
+         y="794.16217"
+         id="text2-6-5"><tspan
+           sodipodi:role="line"
+           id="tspan2-2-6"
+           x="854.5564"
+           y="794.16217"
+           style="stroke-width:0.192668">Holy Numerics Cathedral</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.8176px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14544"
+         x="853.61133"
+         y="800.71106"
+         id="text3-3-6"><tspan
+           sodipodi:role="line"
+           id="tspan3-6-8"
+           x="853.61133"
+           y="800.71106"
+           style="stroke-width:0.14544">(HQ of Church of Techonology)</tspan></text>
       <g
-         id="g394_00000160166371045698923650000011935549323656588984_"
-         style="stroke-width:2.64022">
+         id="g394_00000023976153243748684810000002447054468812133566_-8-4-9-4"
+         style="display:inline;fill:#ffcc00;stroke-width:2.64022"
+         transform="matrix(0.45499029,0,0,0.45499029,433.21051,758.66542)"
+         inkscape:label="Church HQ Icon">
         <rect
-           id="rect390_00000026145232751728470820000009346513754814141577_"
-           x="728.79999"
-           y="540.70001"
-           transform="matrix(0.7071,-0.7071,0.7071,0.7071,-169.9414,676.229)"
+           id="rect390_00000177462964302796848380000013840331324506617235_-5-6-0-4"
+           x="632.53314"
+           y="792.35529"
+           transform="rotate(-45)"
            class="st5"
-           width="5.0999999"
-           height="5.0999999"
-           style="fill:#f7e770;stroke-width:2.64022" />
+           width="6.1999402"
+           height="6.1999402"
+           style="fill:#ffcc00;stroke-width:2.64019" />
         <rect
-           id="rect391_00000182516384900948219840000017109104182473596841_"
-           x="721.70001"
-           y="540.79999"
-           transform="matrix(0.7071,-0.7071,0.7071,0.7071,-172.0513,671.2436)"
+           id="rect391_00000178899645866547897630000013646642648439081095_-2-2-8-9"
+           x="626.41345"
+           y="786.2356"
+           transform="rotate(-45)"
            class="st5"
-           width="5.0999999"
-           height="5.0999999"
-           style="fill:#f7e770;stroke-width:2.64022" />
+           width="6.1999402"
+           height="6.1999402"
+           style="fill:#ffcc00;stroke-width:2.64019" />
         <rect
-           id="rect392_00000044859400428859631320000005551812448704107948_"
-           x="728.79999"
-           y="547.79999"
-           transform="matrix(0.7071,-0.7071,0.7071,0.7071,-174.9848,678.3149)"
+           id="rect392_00000098923672340750900360000008557074128108868268_-8-9-5-5"
+           x="626.38416"
+           y="798.50439"
+           transform="rotate(-45)"
            class="st5"
-           width="5.0999999"
-           height="5.0999999"
-           style="fill:#f7e770;stroke-width:2.64022" />
+           width="6.1999402"
+           height="6.1999402"
+           style="fill:#ffcc00;stroke-width:2.64019" />
         <rect
-           id="rect393_00000120519978747230023260000002270096806857791669_"
-           x="735.90002"
-           y="540.70001"
-           transform="matrix(0.7071,-0.7071,0.7071,0.7071,-167.8556,681.2725)"
+           id="rect393_00000168101215541242334350000000140865533214879158_-8-5-0-5"
+           x="638.68213"
+           y="798.50427"
+           transform="rotate(-45)"
            class="st5"
-           width="5.0999999"
-           height="5.0999999"
-           style="fill:#f7e770;stroke-width:2.64022" />
+           width="6.1999402"
+           height="6.1999402"
+           style="fill:#ffcc00;stroke-width:2.64019" />
         <rect
-           id="rect394_00000144307576559475850870000013225153843073582491_"
-           x="728.79999"
-           y="533.59998"
-           transform="matrix(0.7071,-0.7071,0.7071,0.7071,-164.898,674.1432)"
+           id="rect394_00000113319966659622599810000013280108317437775792_-4-1-2-4"
+           x="638.7821"
+           y="786.20624"
+           transform="rotate(-45)"
            class="st5"
-           width="5.0999999"
-           height="5.0999999"
-           style="fill:#f7e770;stroke-width:2.64022" />
+           width="6.1999402"
+           height="6.1999402"
+           style="fill:#ffcc00;stroke-width:2.64019" />
       </g>
       <circle
-         id="circle394_00000126286331769084373200000004021236163629267842_"
-         class="st6"
-         cx="308.79999"
-         cy="553.90002"
-         r="3.3"
-         style="fill:#e31c49;stroke-width:2.64022" />
+         style="display:inline;fill:#e31c49;fill-opacity:1;stroke-width:0.154548"
+         id="path10-3-1"
+         cx="779.82611"
+         cy="733.32208"
+         r="3.8122952"
+         inkscape:label="City Icon" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.38501px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.184626"
+         x="756.93994"
+         y="727.30798"
+         id="text3-1-5-2-5-4-9"><tspan
+           sodipodi:role="line"
+           x="756.93994"
+           y="727.30798"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.38501px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.184626"
+           id="tspan5-0-1">Backlund City</tspan></text>
       <circle
-         id="circle394_00000125574981433953664760000018277828121873866120_"
-         class="st6"
-         cx="189"
-         cy="561.20001"
-         r="5"
-         style="fill:#e31c49;stroke-width:2.64022" />
+         style="display:inline;fill:#e31c49;fill-opacity:1;stroke-width:0.154548"
+         id="path10-3-1-2"
+         cx="989.69678"
+         cy="814.70801"
+         r="3.8122952"
+         inkscape:label="City Icon" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.38501px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.184626"
+         x="971.51105"
+         y="808.69391"
+         id="text3-1-5-2-5-4-9-7"><tspan
+           sodipodi:role="line"
+           x="971.51105"
+           y="808.69391"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.38501px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.184626"
+           id="tspan5-0-1-4">Seville City</tspan></text>
       <circle
-         id="circle394_00000031928416659772584400000017747610579197154199_"
-         class="st6"
-         cx="903.90002"
-         cy="527.5"
-         r="7.8000002"
-         style="fill:#e31c49;stroke-width:2.64022" />
-      <rect
-         x="1000.8"
-         y="163.60001"
-         class="st23"
-         width="22.4"
-         height="22.4"
-         id="rect1977"
-         style="fill:#38489e;stroke-width:2.64022" />
-      <g
-         id="g1993"
-         style="stroke-width:2.64022">
-        <g
-           id="g1991"
-           style="stroke-width:2.64022">
-          <path
-             d="m 1035.1,180.2 c -0.2,0 -0.4,-0.1 -0.6,-0.2 -0.2,-0.2 -0.2,-0.3 -0.2,-0.6 v -10.3 c 0,-0.2 0.1,-0.4 0.2,-0.6 0.2,-0.1 0.3,-0.2 0.6,-0.2 0.2,0 0.4,0.1 0.6,0.2 0.1,0.1 0.2,0.3 0.2,0.6 v 4.4 h 7.1 v -4.4 c 0,-0.2 0.1,-0.4 0.2,-0.6 0.1,-0.2 0.3,-0.2 0.6,-0.2 0.2,0 0.4,0.1 0.6,0.2 0.1,0.1 0.2,0.3 0.2,0.6 v 10.3 c 0,0.2 -0.1,0.4 -0.2,0.6 -0.1,0.2 -0.3,0.2 -0.6,0.2 -0.2,0 -0.4,-0.1 -0.6,-0.2 -0.2,-0.2 -0.2,-0.3 -0.2,-0.6 v -4.5 h -7.1 v 4.5 c 0,0.2 -0.1,0.4 -0.2,0.6 -0.2,0.1 -0.4,0.2 -0.6,0.2 z"
-             id="path1979"
-             style="stroke-width:2.64022" />
-          <path
-             d="m 1050.8,180.2 c -0.7,0 -1.4,-0.2 -2,-0.6 -0.6,-0.4 -1.1,-0.9 -1.4,-1.5 -0.3,-0.6 -0.5,-1.4 -0.5,-2.2 0,-0.8 0.2,-1.5 0.6,-2.2 0.4,-0.6 0.9,-1.1 1.5,-1.5 0.6,-0.4 1.3,-0.6 2.1,-0.6 0.8,0 1.5,0.2 2.1,0.6 0.6,0.4 1.1,0.9 1.5,1.5 0.4,0.6 0.6,1.4 0.6,2.2 h -0.6 c 0,0.8 -0.2,1.5 -0.5,2.2 -0.3,0.6 -0.8,1.1 -1.4,1.5 -0.5,0.5 -1.2,0.6 -2,0.6 z m 0.4,-1.3 c 0.5,0 1,-0.1 1.4,-0.4 0.4,-0.2 0.7,-0.6 1,-1 0.3,-0.4 0.4,-0.9 0.4,-1.5 0,-0.5 -0.1,-1 -0.4,-1.5 -0.2,-0.4 -0.6,-0.8 -1,-1 -0.4,-0.2 -0.9,-0.4 -1.4,-0.4 -0.5,0 -1,0.1 -1.4,0.4 -0.4,0.3 -0.7,0.6 -1,1 -0.2,0.4 -0.4,0.9 -0.4,1.5 0,0.5 0.1,1 0.4,1.5 0.3,0.5 0.6,0.8 1,1 0.4,0.2 0.8,0.4 1.4,0.4 z m 3.4,1.3 c -0.2,0 -0.4,-0.1 -0.6,-0.2 -0.1,-0.1 -0.2,-0.3 -0.2,-0.6 v -2.3 l 0.3,-1.6 1.3,0.5 v 3.4 c 0,0.2 -0.1,0.4 -0.2,0.6 -0.2,0.1 -0.4,0.2 -0.6,0.2 z"
-             id="path1981"
-             style="stroke-width:2.64022" />
-          <path
-             d="m 1058.4,180.2 c -0.2,0 -0.4,-0.1 -0.6,-0.2 -0.1,-0.1 -0.2,-0.3 -0.2,-0.6 v -6.8 c 0,-0.2 0.1,-0.4 0.2,-0.6 0.1,-0.2 0.3,-0.2 0.6,-0.2 0.3,0 0.4,0.1 0.6,0.2 0.1,0.1 0.2,0.3 0.2,0.6 v 6.8 c 0,0.2 -0.1,0.4 -0.2,0.6 -0.1,0.2 -0.3,0.2 -0.6,0.2 z m 0,-5.2 c 0,-0.6 0.1,-1.2 0.4,-1.6 0.3,-0.4 0.7,-0.9 1.2,-1.1 0.5,-0.3 1.1,-0.4 1.7,-0.4 0.6,0 1.1,0.1 1.4,0.3 0.3,0.2 0.4,0.4 0.3,0.7 0,0.1 -0.1,0.3 -0.2,0.3 -0.1,0 -0.2,0.1 -0.3,0.1 -0.1,0 -0.2,0 -0.4,0 -0.6,-0.1 -1.2,-0.1 -1.8,0 -0.6,0.1 -0.9,0.3 -1.2,0.6 -0.3,0.3 -0.4,0.7 -0.4,1.2 h -0.7 z"
-             id="path1983"
-             style="stroke-width:2.64022" />
-          <path
-             d="m 1069.2,180.2 c -0.8,0 -1.5,-0.2 -2.1,-0.6 -0.6,-0.4 -1.1,-0.9 -1.5,-1.5 -0.4,-0.6 -0.6,-1.4 -0.6,-2.2 V 169 c 0,-0.2 0.1,-0.4 0.2,-0.6 0.1,-0.2 0.3,-0.2 0.6,-0.2 0.2,0 0.4,0.1 0.6,0.2 0.1,0.1 0.2,0.3 0.2,0.6 v 4.1 c 0.4,-0.4 0.8,-0.8 1.3,-1 0.5,-0.2 1.1,-0.4 1.7,-0.4 0.7,0 1.4,0.2 2,0.6 0.6,0.4 1.1,0.9 1.4,1.5 0.3,0.6 0.5,1.4 0.5,2.2 0,0.8 -0.2,1.5 -0.6,2.2 -0.4,0.7 -0.9,1.1 -1.5,1.5 -0.7,0.4 -1.4,0.5 -2.2,0.5 z m 0,-1.3 c 0.5,0 1,-0.1 1.4,-0.4 0.4,-0.2 0.7,-0.6 1,-1 0.3,-0.4 0.4,-0.9 0.4,-1.5 0,-0.5 -0.1,-1 -0.4,-1.5 -0.2,-0.4 -0.6,-0.8 -1,-1 -0.4,-0.2 -0.9,-0.4 -1.4,-0.4 -0.5,0 -1,0.1 -1.4,0.4 -0.4,0.2 -0.7,0.6 -1,1 -0.2,0.4 -0.3,0.9 -0.3,1.5 0,0.5 0.1,1 0.3,1.5 0.2,0.5 0.6,0.8 1,1 0.5,0.3 0.9,0.4 1.4,0.4 z"
-             id="path1985"
-             style="stroke-width:2.64022" />
-          <path
-             d="m 1079.5,180.2 c -0.8,0 -1.5,-0.2 -2.2,-0.5 -0.6,-0.4 -1.1,-0.9 -1.5,-1.5 -0.4,-0.6 -0.5,-1.4 -0.5,-2.2 0,-0.8 0.2,-1.6 0.5,-2.2 0.3,-0.6 0.9,-1.1 1.5,-1.5 0.6,-0.4 1.4,-0.5 2.2,-0.5 0.8,0 1.5,0.2 2.2,0.5 0.6,0.4 1.1,0.9 1.5,1.5 0.4,0.6 0.5,1.4 0.5,2.2 0,0.8 -0.2,1.5 -0.5,2.2 -0.3,0.7 -0.8,1.1 -1.5,1.5 -0.6,0.4 -1.4,0.5 -2.2,0.5 z m 0,-1.3 c 0.5,0 1,-0.1 1.4,-0.4 0.4,-0.2 0.7,-0.6 1,-1 0.2,-0.4 0.3,-0.9 0.3,-1.5 0,-0.6 -0.1,-1.1 -0.3,-1.5 -0.2,-0.4 -0.5,-0.8 -1,-1 -0.4,-0.2 -0.9,-0.4 -1.4,-0.4 -0.5,0 -1,0.1 -1.4,0.4 -0.4,0.2 -0.7,0.6 -1,1 -0.2,0.4 -0.3,0.9 -0.3,1.5 0,0.6 0.1,1 0.3,1.5 0.2,0.4 0.6,0.8 1,1 0.4,0.3 0.9,0.4 1.4,0.4 z"
-             id="path1987"
-             style="stroke-width:2.64022" />
-          <path
-             d="m 1086.8,180.2 c -0.2,0 -0.4,-0.1 -0.6,-0.2 -0.1,-0.1 -0.2,-0.3 -0.2,-0.6 v -6.8 c 0,-0.2 0.1,-0.4 0.2,-0.6 0.1,-0.2 0.3,-0.2 0.6,-0.2 0.3,0 0.4,0.1 0.6,0.2 0.1,0.1 0.2,0.3 0.2,0.6 v 6.8 c 0,0.2 -0.1,0.4 -0.2,0.6 -0.1,0.2 -0.4,0.2 -0.6,0.2 z m 0,-5.2 c 0,-0.6 0.1,-1.2 0.4,-1.6 0.3,-0.4 0.7,-0.9 1.2,-1.1 0.5,-0.3 1.1,-0.4 1.7,-0.4 0.6,0 1.1,0.1 1.4,0.3 0.3,0.2 0.4,0.4 0.3,0.7 0,0.1 -0.1,0.3 -0.2,0.3 -0.1,0 -0.2,0.1 -0.3,0.1 -0.1,0 -0.2,0 -0.4,0 -0.6,-0.1 -1.2,-0.1 -1.8,0 -0.6,0.1 -0.9,0.3 -1.2,0.6 -0.3,0.3 -0.4,0.7 -0.4,1.2 h -0.7 z"
-             id="path1989"
-             style="stroke-width:2.64022" />
-        </g>
-      </g>
-      <rect
-         x="570.40002"
-         y="631.90002"
-         class="st23"
-         width="13.5"
-         height="13.5"
-         id="rect1995"
-         style="fill:#38489e;stroke-width:2.64022" />
-      <rect
-         x="544.29999"
-         y="392"
-         class="st23"
-         width="13.5"
-         height="13.5"
-         id="rect1999-7"
-         style="fill:#38489e;stroke-width:2.64022" />
-      <rect
-         x="546.09998"
-         y="254.89999"
-         class="st23"
-         width="13.5"
-         height="13.5"
-         id="rect2003"
-         style="fill:#38489e;stroke-width:2.64022" />
-      <rect
-         x="185.8"
-         y="516.90002"
-         class="st23"
-         width="13.5"
-         height="13.5"
-         id="rect2007"
-         style="fill:#38489e;stroke-width:2.64022" />
-    </g>
-    <g
-       inkscape:groupmode="layer"
-       id="layer24"
-       inkscape:label="text"
-       style="display:none"
-       sodipodi:insensitive="true">
+         style="display:inline;fill:#e31c49;fill-opacity:1;stroke-width:0.154548"
+         id="path10-3-1-2-1"
+         cx="949.04871"
+         cy="724.69189"
+         r="3.8122952"
+         inkscape:label="City Icon" />
       <text
-         transform="matrix(0.37875738,0,0,0.37875738,949.12591,761.12376)"
-         class="st17 st7 st18"
-         id="text2005"
-         style="font-size:11.6166px;font-family:HelveticaNeue-Medium;display:inline;fill:#231f20;stroke-width:2.64022">Bayam Harbor</text>
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.38501px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.184626"
+         x="936.29846"
+         y="718.6778"
+         id="text3-1-5-2-5-4-9-7-0"><tspan
+           sodipodi:role="line"
+           x="936.29846"
+           y="718.6778"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.38501px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.184626"
+           id="tspan5-0-1-4-9">Tiir City</tspan></text>
+      <circle
+         style="display:inline;fill:#e31c49;fill-opacity:1;stroke-width:0.154548"
+         id="path10-3-1-2-1-5"
+         cx="824.77734"
+         cy="644.85181"
+         r="3.8122952"
+         inkscape:label="City Icon" />
       <text
-         transform="matrix(0.37875738,0,0,0.37875738,1087.5803,662.55765)"
-         class="st7 st18"
-         id="text2001"
-         style="font-size:11.6166px;font-family:HelveticaNeue-Medium;display:inline;stroke-width:2.64022">Rolls Harbor</text>
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.38501px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.184626"
+         x="805.86804"
+         y="638.83771"
+         id="text3-1-5-2-5-4-9-7-0-3"><tspan
+           sodipodi:role="line"
+           x="805.86804"
+           y="638.83771"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.38501px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.184626"
+           id="tspan5-0-1-4-9-5">Tingen City</tspan></text>
+      <circle
+         style="display:inline;fill:#e31c49;fill-opacity:1;stroke-width:0.154548"
+         id="path10-3-1-2-1-5-1"
+         cx="849.76965"
+         cy="586.95801"
+         r="3.8122952"
+         inkscape:label="City Icon" />
       <text
-         transform="matrix(0.37875738,0,0,0.37875738,1112.5666,733.67446)"
-         class="st7 st8"
-         id="text1905"
-         style="font-size:21.081px;font-family:HelveticaNeue-Medium;display:inline;stroke-width:2.64022">Althea</text>
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.38501px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.184626"
+         x="830.86035"
+         y="580.94391"
+         id="text3-1-5-2-5-4-9-7-0-3-3"><tspan
+           sodipodi:role="line"
+           x="830.86035"
+           y="580.94391"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.38501px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.184626"
+           id="tspan5-0-1-4-9-5-6">Beldone City</tspan></text>
+      <circle
+         style="display:inline;fill:#e31c49;fill-opacity:1;stroke-width:0.154548"
+         id="path10-3-1-2-0"
+         cx="822.03485"
+         cy="901.12506"
+         r="3.8122952"
+         inkscape:label="City Icon" />
       <text
-         transform="matrix(0.37875738,0,0,0.37875738,1134.0652,703.77793)"
-         class="st9 st10"
-         id="text1907"
-         style="font-size:15.8867px;font-family:HelveticaNeue-LightItalic;display:inline;stroke-width:2.64022">Tingen City</text>
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.38501px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.184626"
+         x="807.22418"
+         y="895.11096"
+         id="text3-1-5-2-5-4-9-7-3"><tspan
+           sodipodi:role="line"
+           x="807.22418"
+           y="895.11096"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.38501px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.184626"
+           id="tspan5-0-1-4-8">Pritz City</tspan></text>
+      <circle
+         style="display:inline;fill:#e31c49;fill-opacity:1;stroke-width:0.154548"
+         id="path10-3-1-2-0-5"
+         cx="787.46997"
+         cy="823.677"
+         r="3.8122952"
+         inkscape:label="City Icon" />
       <text
-         transform="matrix(0.37875738,0,0,0.37875738,1114.3454,797.18427)"
-         class="st9 st10"
-         id="text1910"
-         style="font-size:15.8867px;font-family:HelveticaNeue-LightItalic;display:inline;stroke-width:2.64022">Seville City</text>
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.38501px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.184626"
+         x="764.87921"
+         y="817.6629"
+         id="text3-1-5-2-5-4-9-7-3-8"><tspan
+           sodipodi:role="line"
+           x="764.87921"
+           y="817.6629"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.38501px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.184626"
+           id="tspan5-0-1-4-8-2">Constant City</tspan></text>
+      <circle
+         style="display:inline;fill:#e31c49;fill-opacity:1;stroke-width:0.154548"
+         id="path10-3-1-2-9"
+         cx="1028.4658"
+         cy="913.7511"
+         r="3.8122952"
+         inkscape:label="City Icon" />
       <text
-         transform="matrix(0.37875738,0,0,0.37875738,1163.5631,670.20108)"
-         class="st9 st10"
-         id="text1913"
-         style="font-size:15.8867px;font-family:HelveticaNeue-LightItalic;display:inline;stroke-width:2.64022">Beldone City</text>
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.38501px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.184626"
+         x="1010.8488"
+         y="907.737"
+         id="text3-1-5-2-5-4-9-7-5"><tspan
+           sodipodi:role="line"
+           x="1010.8488"
+           y="907.737"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.38501px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.184626"
+           id="tspan5-0-1-4-4">Bansy City</tspan></text>
+      <circle
+         style="display:inline;fill:#e31c49;fill-opacity:1;stroke-width:0.154548"
+         id="path10-3-7"
+         cx="635.10779"
+         cy="728.03314"
+         r="3.8122952"
+         inkscape:label="City Icon" />
       <text
-         transform="matrix(0.37875738,0,0,0.37875738,1104.8791,752.05112)"
-         class="st9 st10"
-         id="text1916"
-         style="font-size:15.8867px;font-family:HelveticaNeue-LightItalic;display:inline;stroke-width:2.64022">Backlund City</text>
-      <text
-         transform="matrix(0.37875738,0,0,0.37875738,982.1195,678.61726)"
-         class="st9 st11"
-         id="text1918"
-         style="font-size:10.9576px;font-family:HelveticaNeue-LightItalic;display:inline;stroke-width:2.64022">(HQ of Church of Storm)</text>
-      <text
-         transform="matrix(0.37875738,0,0,0.37875738,990.47788,674.0154)"
-         class="st12 st11"
-         id="text1920"
-         style="font-size:10.9576px;font-family:Impact;display:inline;stroke-width:2.64022">Chasm of Storm</text>
-      <text
-         transform="matrix(0.37875738,0,0,0.37875738,1219.5328,727.32629)"
-         class="st9 st11"
-         id="text1928"
-         style="font-size:10.9576px;font-family:HelveticaNeue-LightItalic;display:inline;stroke-width:2.64022">(HQ of Church of Evernight)</text>
-      <text
-         transform="matrix(0.37875738,0,0,0.37875738,1226.0964,722.72443)"
-         class="st12 st11"
-         id="text1930"
-         style="font-size:10.9576px;font-family:Impact;display:inline;stroke-width:2.64022">Cathedral of Serenity</text>
-      <text
-         transform="matrix(0.37875738,0,0,0.37875738,1141.5074,767.422)"
-         class="st9 st11"
-         id="text1938"
-         style="font-size:10.9576px;font-family:HelveticaNeue-LightItalic;display:inline;stroke-width:2.64022">(HQ of Church of Technology)</text>
-      <text
-         transform="matrix(0.37875738,0,0,0.37875738,1146.8437,762.82014)"
-         class="st12 st11"
-         id="text1940"
-         style="font-size:10.9576px;font-family:Impact;display:inline;stroke-width:2.64022">Holy Numerics Cathedral</text>
-      <text
-         transform="matrix(0.37875738,0,0,0.37875738,1002.2375,774.75456)"
-         class="st9 st13"
-         id="text1943"
-         style="font-size:6.9512px;font-family:HelveticaNeue-LightItalic;display:inline;stroke-width:2.64022">Oofieland</text>
-      <text
-         transform="matrix(0.37875738,0,0,0.37875738,952.44916,776.33208)"
-         class="st9 st14"
-         id="text1946"
-         style="font-size:10.6908px;font-family:HelveticaNeue-LightItalic;display:inline;stroke-width:2.64022">Bayam City</text>
-      <text
-         transform="matrix(0.37875738,0,0,0.37875738,1103.1996,719.60184)"
-         class="st17 st7 st18"
-         id="text1997"
-         style="font-size:11.6166px;font-family:HelveticaNeue-Medium;display:inline;fill:#231f20;stroke-width:2.64022">Pritz Harbor</text>
-      <text
-         transform="matrix(0.37875738,0,0,0.37875738,1215.5489,762.26651)"
-         class="st9 st10"
-         id="text1949"
-         style="font-size:15.8867px;font-family:HelveticaNeue-LightItalic;display:inline;stroke-width:2.64022">Constant City</text>
-      <text
-         transform="matrix(0.37875738,0,0,0.37875738,1189.7744,665.68349)"
-         class="st7 st15"
-         id="text1951"
-         style="font-size:20.121px;font-family:HelveticaNeue-Medium;display:inline;stroke-width:2.64022">Winter County</text>
-      <text
-         transform="matrix(0.37875738,0,0,0.37875738,1110.2963,671.4064)"
-         id="text1957"
-         style="display:inline;stroke-width:2.64022"><tspan
-           x="0"
-           y="0"
-           class="st7 st15"
-           id="tspan1953"
-           style="stroke-width:2.64022">Midseashire</tspan><tspan
-           x="23.200001"
-           y="25.5"
-           class="st7 st15"
-           id="tspan1955"
-           style="stroke-width:2.64022">County</tspan></text>
-      <text
-         transform="matrix(0.37875738,0,0,0.37875738,1194.2306,787.54963)"
-         class="st7 st15"
-         id="text1959"
-         style="font-size:20.121px;font-family:HelveticaNeue-Medium;display:inline;stroke-width:2.64022">Southville County</text>
-      <text
-         transform="matrix(0.37875738,0,0,0.37875738,1103.1994,787.54951)"
-         class="st7 st16"
-         id="text1961"
-         style="font-size:21.9316px;font-family:HelveticaNeue-Medium;display:inline;stroke-width:2.64022">Desi County</text>
-      <text
-         transform="matrix(0.37875738,0,0,0.37875738,1097.7698,816.38776)"
-         class="st17 st7 st18"
-         id="text1963"
-         style="font-size:11.6166px;font-family:HelveticaNeue-Medium;display:inline;fill:#231f20;stroke-width:2.64022">Oak Harbor</text>
-      <text
-         transform="matrix(0.37875738,0,0,0.37875738,1162.416,733.67431)"
-         class="st7 st19"
-         id="text1965"
-         style="font-size:18.2509px;font-family:HelveticaNeue-Medium;display:inline;stroke-width:2.64022">Awwa County</text>
-      <text
-         transform="matrix(0.37875738,0,0,0.37875738,950.43035,809.05361)"
-         class="st17 st7 st20"
-         id="text1967"
-         style="font-size:19.539px;font-family:HelveticaNeue-Medium;display:inline;fill:#231f20;stroke-width:2.64022">Bayam Archipelago</text>
-      <text
-         transform="matrix(0.37875738,0,0,0.37875738,982.26854,711.41742)"
-         class="st17 st7 st21"
-         id="text1969"
-         style="font-size:20.6625px;font-family:HelveticaNeue-Medium;display:inline;fill:#231f20;stroke-width:2.64022">Besu Cluster</text>
-      <text
-         transform="matrix(0.37875738,0,0,0.37875738,1215.7269,699.39146)"
-         id="text1975"
-         style="display:inline;stroke-width:2.64022"><tspan
-           x="0"
-           y="0"
-           class="st7 st22"
-           id="tspan1971"
-           style="stroke-width:2.64022">East Chester</tspan><tspan
-           x="27.1"
-           y="22.5"
-           class="st7 st22"
-           id="tspan1973"
-           style="stroke-width:2.64022">County</tspan></text>
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.38501px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.184626"
+         x="647.02979"
+         y="730.67328"
+         id="text3-1-5-2-5-4-9-7-3-8-1"><tspan
+           sodipodi:role="line"
+           x="647.02979"
+           y="730.67328"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.38501px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.184626"
+           id="tspan5-0-1-4-8-2-4">Oofieland</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -827,7 +899,8 @@
       <g
          inkscape:groupmode="layer"
          id="layer2"
-         inkscape:label="Texts">
+         inkscape:label="Texts"
+         style="display:inline">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3464px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.43366"
@@ -863,7 +936,7 @@
              id="tspan9"
              x="1115.6387"
              y="611.43079"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3464px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.43366">City</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3464px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.43366">Harbor</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3464px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.43366"
@@ -875,26 +948,7 @@
              id="tspan10"
              x="1115.0142"
              y="638.1709"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3464px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.43366">Harbor</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.5238px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.338093"
-           x="798.09692"
-           y="666.17676"
-           id="text8-2"
-           inkscape:label="Capital"><tspan
-             sodipodi:role="line"
-             id="tspan8-9"
-             x="798.09692"
-             y="666.17676"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.5238px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.338093">Althea</tspan></text>
-        <polygon
-           id="polygon390_00000065753685581829470360000004153974104017355922_-6-8"
-           class="st4"
-           points="1006.2,91.4 1000.4,85.8 1008.4,84.6 1012,77.3 1015.5,84.6 1023.6,85.8 1017.8,91.4 1019.1,99.4 1012,95.6 1004.8,99.4 "
-           style="display:inline;fill:#ffcc00;stroke-width:2.64022"
-           transform="matrix(0.70569641,0,0,0.74082157,74.047219,595.20317)"
-           inkscape:label="Captial Icon" />
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3464px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.43366">City</tspan></text>
       </g>
       <g
          inkscape:groupmode="layer"

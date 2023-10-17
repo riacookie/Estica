@@ -9,8 +9,6 @@
 [b]Motto: [/b][i]Through hardship and blood[/i]
 [hr]
 
-[img]https://media.discordapp.net/attachments/828970969070174210/1140290346467725362/Colored_Region_Map_Estica.png[/img]
-[b]Location[/b]
 [hr][/center]
 
 [table=plain]
@@ -46,7 +44,7 @@ Milaru[/td][/tr]
 (444,677 sq mi)[/td][/tr]
 
 [tr][td][b]Population[/b][/td][td][/td][/tr]
-[tr][td]• 2023 census[/td][td][img]https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Increase_Neutral.svg/11px-Increase_Neutral.svg.png[/img] 26 million[/td][/tr]
+[tr][td]• 2023 census[/td][td][img]https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Increase_Neutral.svg/11px-Increase_Neutral.svg.png[/img] 32 million[/td][/tr]
 [tr][td]• Density[/td][td]366.3/km²
 (141.43/sq mi)[/td][/tr]
 
@@ -76,7 +74,7 @@ yyyy-mm-dd[/td][/tr]
 
 [size=200][font=georgia]Kingdom of Estica[/font][/size]
 [hr]
-[b]Estica[/b], officially [nation=long+noflag]estica[/nation], is a nation located in the central area of [region=the Almersen Union]. It is comprised of 6 counties and 2 archipelagoes. It is geographically positioned with [nation=noflag]senerean[/nation] to the north and [nation=noflag]wilhelma_and_the_flanfairs[/nation] to the south, sharing land borders with both. Additionally, it has maritime boundaries with [nation=noflag]yulovian_hydrus[/nation] to its south. The national capital of Estica is Althea, and its most populous city and financial center is Backlund City.
+[b]Estica[/b], officially [nation=long+noflag]estica[/nation], is a nation located in the central area of [region=the Almersen Union]. It is comprised of 8 counties and 2 archipelagoes. It is geographically positioned with [nation=noflag]senerean[/nation] to the north and [nation=noflag]wilhelma_and_the_flanfairs[/nation] to the south, sharing land borders with both. Additionally, it has maritime boundaries with [nation=noflag]yulovian_hydrus[/nation] to its south. The national capital of Estica is Althea, and its most populous city and financial center is Backlund City.
 
 The origin of the modern Estican Kingdom can be traced back to the Grand Solomon Empire, which was ruled by the powerful Black Emperor Solomon. This vast empire eventually split into four separate empires, leading to a conflict known as the War of the Four Emperors. After the war, one of these empires, the Tudo Empire, retreated to the South Region, which is now recognized as the present-day Estican Kingdom. As time went on, the influence of the declining Tudo Empire diminished, allowing the early Estican Kingdom to emerge. The formation of this nascent kingdom was greatly influenced by three main religions: the Church of the Evernight Goddess, the Church of the Lord of Storms, and the Church of the God of Technology. These religious institutions played a significant role in shaping the cultural and social norms of the early Estican Kingdom.
 
@@ -89,3 +87,7 @@ Central to Estica's socio-political fabric are the three orthodox churches: the 
 The term "Estica" originated from an ancient goddess who once ruled over the mythical Nation of Evernight. Due to the deeply ingrained tradition of revering the night sky and stars, the citizens of the Estica Kingdom chose "Her" name for their nation. The word itself also stems from an old language called "Jotun" meaning "dark night", dating back to 500 AD.
 
 [b][u][size=150][anchor=Hist]History[/anchor][/b][/u][/size]
+
+[b][u][size=150][anchor=Hist]National Map[/anchor][/b][/u][/size]
+
+[img]https://i.imgur.com/m2GOWjh.png[/img]
