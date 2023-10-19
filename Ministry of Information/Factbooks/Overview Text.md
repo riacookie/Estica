@@ -44,9 +44,9 @@ Milaru[/td][/tr]
 (444,677 sq mi)[/td][/tr]
 
 [tr][td][b]Population[/b][/td][td][/td][/tr]
-[tr][td]• 2023 census[/td][td][img]https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Increase_Neutral.svg/11px-Increase_Neutral.svg.png[/img] 32 million[/td][/tr]
-[tr][td]• Density[/td][td]366.3/km²
-(141.43/sq mi)[/td][/tr]
+[tr][td]• 2023 census[/td][td][img]https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Increase_Neutral.svg/11px-Increase_Neutral.svg.png[/img] 55 million[/td][/tr]
+[tr][td]• Density[/td][td]239/km²
+(619/sq mi)[/td][/tr]
 
 [tr][td][b]GDP (nominal)[/b][/td][td][/td][/tr]
 [tr][td]• Total[/td][td][img]https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png[/img] P̳40.3 trillion[/td][/tr]
