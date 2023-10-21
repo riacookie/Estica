@@ -1,24 +1,23 @@
 [background-block=#191930][img]https://i.imgur.com/NrhQIv4.png[/img][/background-block]
 [box][align=center][size=225][font=Georgia]Top Stories[/size][/font][/align]
-[list][*] [b]Title 1[/b]
+[list][*][size=125][font=Georgia][b]title[/b][/font][/size]
 text
 
-[*] [b]Title 2[/b]
+[*] [size=125][font=Georgia][b]title[/b][/font][/size]
 text
 
-[*] [b]Title 3[/b]
+[*] [size=125][font=Georgia][b]title[/b][/font][/size]
 text
 [/list]
 [/box]
 [box]
 [align=center][size=225][font=Georgia]Headlines[/font][/size][/align]
-[list]
+[list][size=125][font=Georgia][*] A commercial space station is in the works, government says
 [*]
 [*]
 [*]
 [*]
-[*]
-[*]
+[*] text[/size][/font]
 [/list]
 [/box]
 [i]Join the newsletter and stay updated with The Starlight Media, one of Estica’s official global news sources![/i]
