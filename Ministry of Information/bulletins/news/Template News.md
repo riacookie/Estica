@@ -12,7 +12,7 @@ text
 [/box]
 [box]
 [align=center][size=225][font=Georgia]Headlines[/font][/size][/align]
-[list][size=125][font=Georgia][*] A commercial space station is in the works, government says
+[list][size=125][font=Georgia][*] text
 [*]
 [*]
 [*]
