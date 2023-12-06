@@ -18,10 +18,10 @@
 
 [tr][td][b]Largest city[/b][/td][td]Aurora[/td][/tr]
 
-[tr][td][b]Official language[/b][/td][td]Estican
+[tr][td][b]Official languages[/b][/td][td]Estican
 English[/td][/tr]
 
-[tr][td][b]National language[/b][/td][td]Estican
+[tr][td][b]National languages[/b][/td][td]Estican
 English
 Milaru[/td][/tr]
 
