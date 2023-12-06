@@ -92,4 +92,4 @@ The term "Estica" originated from an ancient goddess who once ruled over the myt
 
 [b][u][size=150][anchor=Hist]National Map[/anchor][/b][/u][/size]
 
-[img]https://i.imgur.com/p7ucT19.png[/img]
+[img]https://i.imgur.com/2ECPYL2.png[/img]
