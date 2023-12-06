@@ -6,7 +6,9 @@
 
 [hr]
 
-[b]Motto: [/b][i]Through hardship and blood[/i]
+[I]"Kingdom of Stars, Key of Lights, Beacon of The Cosmos."[/i]
+
+[b]Motto: [/b][i]"Serenity in our hearts, stars in our destiny"[/i]
 [hr]
 
 [hr][/center]
@@ -14,7 +16,7 @@
 [table=plain]
 [tr][td][b]Capital[/b][/td][td]Althea[/td][/tr]
 
-[tr][td][b]Largest city[/b][/td][td]Backlund[/td][/tr]
+[tr][td][b]Largest city[/b][/td][td]Aurora[/td][/tr]
 
 [tr][td][b]Official language[/b][/td][td]Estican
 English[/td][/tr]
@@ -34,7 +36,7 @@ Milaru[/td][/tr]
 [tr][td][b]Legislature[/b][/td][td]Parliament[/td][/tr]
 
 [tr][td][b]Formation[/b][/td][td][/td][/tr]
-[tr][td]• Grand Solomon Empire[/td][td]800-1240[/td][/tr]
+[tr][td]• Grand Solomon Empire[/td][td]800-1200[/td][/tr]
 [tr][td]• War of the Four Emperors[/td][td]1236-1240[/td][/tr]
 [tr][td]• Tudor Empire[/td][td]1300-1600[/td][/tr]
 [tr][td]• Early Estican Kingdom[/td][td]1700-1800[/td][/tr]
@@ -74,9 +76,9 @@ yyyy-mm-dd[/td][/tr]
 
 [size=200][font=georgia]Kingdom of Estica[/font][/size]
 [hr]
-[b]Estica[/b], officially [nation=long+noflag]estica[/nation], is a nation located in the central area of [region=the Almersen Union]. It is comprised of 8 counties and 2 archipelagoes. It is geographically positioned with [nation=noflag]senerean[/nation] to the north and [nation=noflag]wilhelma_and_the_flanfairs[/nation] to the south, sharing land borders with both. Additionally, it has maritime boundaries with [nation=noflag]yulovian_hydrus[/nation] to its south. The national capital of Estica is Althea, and its most populous city and financial center is Backlund City.
+[b]Estica[/b], officially [nation=long+noflag]estica[/nation], is a nation located in the central area of [region=the Almersen Union]. It is comprised of 8 counties and 2 archipelagoes. It is geographically positioned with [nation=noflag]senerean[/nation] to the north and [nation=noflag]wilhelma_and_the_flanfairs[/nation] to the south, sharing land borders with both. Additionally, it has maritime boundaries with [nation=noflag]yulovian_hydrus[/nation] to its south. The national capital of Estica is Althea, and its most populous city and financial center is Aurora City.
 
-The origin of the modern Estican Kingdom can be traced back to the Grand Solomon Empire, which was ruled by the powerful Black Emperor Solomon.
+The origin of the modern Estican Kingdom can be traced back to the Grand Solomon Empire, which was ruled by the powerful Black Emperor Solomon. This vast empire eventually split into four separate empires, leading to a conflict known as the War of the Four Emperors. After the war, one of these empires, the Tudo Empire, retreated to the South Region, which is now recognized as the present-day Estican Kingdom. As time went on, the influence of the declining Tudo Empire diminished, allowing the early Estican Kingdom to emerge. The formation of this nascent kingdom was greatly influenced by three main religions: the Church of the Evernight Goddess, the Church of the Lord of Storms, and the Church of the God of Technology. These religious institutions played a significant role in shaping the cultural and social norms of the early Estican Kingdom.
 
 The government structure and politics of the Kingdom of Estica are characterized by a unitary parliamentary constitutional monarchy. This governance system encompasses a delicate balance of power, where the reigning monarch shares authority with an elected parliamentary body. The nation's political landscape is notably influenced by a network of powerful aristocratic families, which not only hold significant positions within the government but also maintain a close relationship with the royal family, shaping the course of policy-making and administration.
 
@@ -88,8 +90,6 @@ The term "Estica" originated from an ancient goddess who once ruled over the myt
 
 [b][u][size=150][anchor=Hist]History[/anchor][/b][/u][/size]
 
-[b]Early History[/b]
-
 [b][u][size=150][anchor=Hist]National Map[/anchor][/b][/u][/size]
 
-[img]https://i.imgur.com/m2GOWjh.png[/img]
+[img]https://i.imgur.com/p7ucT19.png[/img]
