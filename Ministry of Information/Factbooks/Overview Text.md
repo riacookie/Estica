@@ -46,16 +46,16 @@ Milaru[/td][/tr]
 (444,677 sq mi)[/td][/tr]
 
 [tr][td][b]Population[/b][/td][td][/td][/tr]
-[tr][td]• 2023 census[/td][td][img]https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Increase_Neutral.svg/11px-Increase_Neutral.svg.png[/img] 55 million[/td][/tr]
+[tr][td]• 2023 census[/td][td][img]https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Increase_Neutral.svg/11px-Increase_Neutral.svg.png[/img] 69 million[/td][/tr]
 [tr][td]• Density[/td][td]239/km²
 (619/sq mi)[/td][/tr]
 
 [tr][td][b]GDP (nominal)[/b][/td][td][/td][/tr]
-[tr][td]• Total[/td][td][img]https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png[/img] P̳40.3 trillion[/td][/tr]
+[tr][td]• Total[/td][td][img]https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png[/img] P̳4.03 trillion[/td][/tr]
 [tr][td]• Per capita[/td][td][img]https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png[/img] P̳48,523[/td][/tr]
 
-[tr][td][b]Human Development Index[/b][/td][td][img]https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png[/img] 0.530
-[color=red]low[/color][/td][/tr]
+[tr][td][b]Human Development Index[/b][/td][td][img]https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png[/img] 0.901
+[color=green]very high[/color][/td][/tr]
 
 [tr][td][b]Currency[/b][/td][td]Estican pound (P̳) (ESP)[/td][/tr]
 
@@ -76,13 +76,11 @@ yyyy-mm-dd[/td][/tr]
 
 [size=200][font=georgia]Kingdom of Estica[/font][/size]
 [hr]
-[b]Estica[/b], officially [nation=long+noflag]estica[/nation], is a nation located in the central area of [region=the Almersen Union]. It is comprised of 8 counties and 2 archipelagoes. It is geographically positioned with [nation=noflag]senerean[/nation] to the north and [nation=noflag]wilhelma_and_the_flanfairs[/nation] to the south, sharing land borders with both. Additionally, it has maritime boundaries with [nation=noflag]yulovian_hydrus[/nation] to its south. The national capital of Estica is Althea, and its most populous city and financial center is Aurora City.
+[b]Estica[/b], officially [nation=long+noflag]estica[/nation], is a nation located in the central area of the [region=the Almersen Union]. It is comprised of 11 provinces and 2 archipelagoes. It is geographically positioned with [nation=noflag]senerean[/nation] to the north and [nation=noflag]wilhelma_and_the_flanfairs[/nation] to the south, sharing land borders with both. Additionally, it has maritime boundaries with [nation=noflag]yulovian_hydrus[/nation] to its south. The total area of Estica is 1,151,707.99 km²(444,677 sq mi) with an estimated population of nearly 69 million people. The national capital of Estica is Althea, and its most populous city and financial center is Aurora City, other major cities include Tiir, Cetia, and Ilyra.
 
-The origin of the modern Estican Kingdom can be traced back to the Grand Solomon Empire, which was ruled by the powerful Black Emperor Solomon. This vast empire eventually split into four separate empires, leading to a conflict known as the War of the Four Emperors. After the war, one of these empires, the Tudo Empire, retreated to the South Region, which is now recognized as the present-day Estican Kingdom. As time went on, the influence of the declining Tudo Empire diminished, allowing the early Estican Kingdom to emerge. The formation of this nascent kingdom was greatly influenced by three main religions: the Church of the Evernight Goddess, the Church of the Lord of Storms, and the Church of the God of Technology. These religious institutions played a significant role in shaping the cultural and social norms of the early Estican Kingdom.
+The government structure and politics of the Kingdom of Estica are characterized by a unitary parliamentary constitutional monarchy. This system of governance involves a delicate balance of power, with the reigning monarch sharing authority with an elected parliamentary body. The country's political landscape used to be influenced by powerful aristocratic families, which held significant power over the government until the late 19th century when their decline began. Their positions in the governing body were replaced by elected members of various institutes in the country. This assembly had the authority to appoint the Ministers.
 
-The government structure and politics of the Kingdom of Estica are characterized by a unitary parliamentary constitutional monarchy. This governance system encompasses a delicate balance of power, where the reigning monarch shares authority with an elected parliamentary body. The nation's political landscape is notably influenced by a network of powerful aristocratic families, which not only hold significant positions within the government but also maintain a close relationship with the royal family, shaping the course of policy-making and administration.
-
-Central to Estica's socio-political fabric are the three orthodox churches: the Church of the Evernight Goddess, the Church of the Lord of Storms, and the Church of the God of Technology. These ecclesiastical institutions hold sway over both spiritual and temporal matters, working in tandem with the government and military. This unique interplay between religion and governance adds a distinct dimension to the Kingdom's politics, impacting decisions and policies through the lens of faith. This dynamic underscores the multifaceted nature of Estican governance, where both secular and spiritual forces coalesce to shape the nation's direction and cultural identity.
+The three orthodox religions—the Evernight Goddess, Lord of Storms, and God of Technology—play a vital role in both spiritual and everyday affairs. They closely collaborate with the government and military, influencing decisions and policies through the perspective of faith. This interaction between religion and governance brings a unique aspect to the Kingdom's politics, highlighting the diverse nature of Estican governance as secular and spiritual forces come together to shape the nation's path and cultural identity.
 
 [b][u][size=150][anchor=Ety]Etymology[/anchor][/b][/u][/size]
 
@@ -90,6 +88,6 @@ The term "Estica" originated from an ancient goddess who once ruled over the myt
 
 [b][u][size=150][anchor=Hist]History[/anchor][/b][/u][/size]
 
-[b][u][size=150][anchor=Hist]National Map[/anchor][/b][/u][/size]
+[b][u][size=150][anchor=Hist]Map[/anchor][/b][/u][/size]
 
-[img]https://i.imgur.com/2ECPYL2.png[/img]
+[img]https://i.imgur.com/LfhnFPz.png[/img]
